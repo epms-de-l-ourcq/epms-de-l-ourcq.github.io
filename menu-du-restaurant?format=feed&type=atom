@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Menu du Restaurant</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:19:14Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/menu-du-restaurant?format=feed&amp;type=atom" />
+	<entry>
+		<title>Menu du restaurant</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/menu-du-restaurant/393-menu-du-restaurant"/>
+		<published>2013-10-13T23:00:00Z</published>
+		<updated>2013-10-13T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/menu-du-restaurant/393-menu-du-restaurant</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left; width: 326px; height: 527px;&quot; valign=&quot;top&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;table style=&quot;width: 330px; height: 564px; text-align: center;&quot; class=&quot;border_img&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Le restaurant d'application est ouvert les&lt;/strong&gt;&lt;/span&gt; :&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;mardis, jeudis &lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;(hors vacances scolaires)&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;img alt=&quot;apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt;&amp;nbsp;Uniquement sur réservation&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left; background-color: #ffffff;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Par téléphone :&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;01.60.26.95.25&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left; background-color: #ffffff;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Par mail :&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;Réservation Restaurant&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_contact&amp;amp;view=contact&amp;amp;catid=71:pole-externat-medico-educatif&amp;amp;id=11-m-hamel-m-hequet&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;Réservation Restaurant&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_contact&amp;amp;view=contact&amp;amp;catid=71:pole-externat-medico-educatif&amp;amp;id=11-m-hamel-m-hequet&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Réservation par mail&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;a target=&quot;_blank&quot; title=&quot;Réservation Restaurant&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_contact&amp;amp;view=contact&amp;amp;catid=71:pole-externat-medico-educatif&amp;amp;id=11-m-hamel-m-hequet&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;Bon appetit à tous !&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left; width: 326px; height: 527px;&quot; valign=&quot;top&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;table style=&quot;width: 330px; height: 564px; text-align: center;&quot; class=&quot;border_img&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Le restaurant d'application est ouvert les&lt;/strong&gt;&lt;/span&gt; :&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;mardis, jeudis &lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;(hors vacances scolaires)&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;img alt=&quot;apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt;&amp;nbsp;Uniquement sur réservation&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left; background-color: #ffffff;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Par téléphone :&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;01.60.26.95.25&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left; background-color: #ffffff;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Par mail :&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;Réservation Restaurant&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_contact&amp;amp;view=contact&amp;amp;catid=71:pole-externat-medico-educatif&amp;amp;id=11-m-hamel-m-hequet&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;Réservation Restaurant&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_contact&amp;amp;view=contact&amp;amp;catid=71:pole-externat-medico-educatif&amp;amp;id=11-m-hamel-m-hequet&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Réservation par mail&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;a target=&quot;_blank&quot; title=&quot;Réservation Restaurant&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_contact&amp;amp;view=contact&amp;amp;catid=71:pole-externat-medico-educatif&amp;amp;id=11-m-hamel-m-hequet&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;Bon appetit à tous !&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+</feed>

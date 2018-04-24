@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Bienvenue sur le site de l'E.P.M.S.</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:17:06Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/index.php?format=feed&amp;type=atom" />
+</feed>

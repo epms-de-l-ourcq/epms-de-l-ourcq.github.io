@@ -1,0 +1,71 @@
+/* Orange */
+
+body.bc-orange {
+	border-top: 4px solid #ffcc33;
+}
+
+.bc-orange .contentheading,
+.bc-orange #main-section a,
+.bc-orange .moduletable h3,
+.bc-orange #left-column .module h3,
+.bc-orange #right-column .module h3,
+.bc-orange #left-column .module-menu h3,
+.bc-orange #right-column .module-menu h3,
+.bc-orange #bottommodules1 .module h3,
+.bc-orange #bottommodules2 .module h3,
+.bc-orange #sub-menu a {
+	color: #ffcc33;
+}
+
+.bc-orange #left-column a {
+        color : #555555;
+}
+.bc-orange img#logo {
+	background: url(../images/orange/logo.png) 0 0 no-repeat;
+}
+
+.bc-orange #showcase {
+	background: #ffcc33 url(../images/orange/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-orange .showcase-div {
+	background: url(../images/orange/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-orange #showcase .column-1 {
+	border-right: 1px solid #ffcc33;
+}
+
+.bc-orange #showcase a {
+	color: #Fffcc33;
+}
+
+.bc-orange #showcase ul.latestnews li {
+	background-color: #ffcc33;
+}
+
+.bc-orange #showcase ul.latestnews li:hover {
+	background-color: #ffcc33;
+}
+
+.bc-orange .date-block {
+	border-bottom: 1px solid #ffcc33;
+}
+
+.bc-orange span.date-number {
+	background: #ffcc33;
+	color: #ffcc33;
+}
+
+.bc-orange #horiz-menu li.active a,
+.bc-orange #horiz-menu li.active .separator,
+.bc-orange #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-orange #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #ffcc33;
+	color: #Cffcc33;
+}
+
+.bc-orange #news-rotator .story {
+	border-top: 5px solid #ffcc33;
+	color: #ffcc33;
+}

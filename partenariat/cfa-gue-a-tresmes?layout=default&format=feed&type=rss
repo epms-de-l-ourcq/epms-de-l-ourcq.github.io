@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>C.F.A. Gué à Tresmes</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/partenariat/cfa-gue-a-tresmes</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:29:39 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>C.F.A. Gué à Tresmes</title>
+			<link>http://www.epms-ourcq.fr/partenariat/cfa-gue-a-tresmes/178-cfa-gue-a-tresmes</link>
+			<guid>http://www.epms-ourcq.fr/partenariat/cfa-gue-a-tresmes/178-cfa-gue-a-tresmes</guid>
+			<description><![CDATA[<table border="0" class="tableau_articles">
+<tbody style="text-align: left;">
+<tr class="ligne_background" style="text-align: left;">
+<td class="tableau_cellule_img" style="text-align: left;"><img src="http://www.epms-ourcq.fr/images/stories/partenariat/CFA/gue-atresmes-chateau.jpg" alt="Le C.F.A. Gué à Tresmes" /></td>
+<td style="text-align: left;">
+<p style="text-align: center;"><span class="lettrine"><span style="background-color: #521b3a;">L</span></span>'établissement offre une vingtaine de formations passionnantes<br /> dans des domaines aussi variés que:</p>
+<p style="text-align: center;">&nbsp;<strong>la céramique&nbsp; -&nbsp; le staff&nbsp; -&nbsp; les arts appliqués<br /> le graphisme signalétique&nbsp; -&nbsp; l'aménagement et la finition<br /> l'hôtellerie et la restauration</strong><strong> </strong></p>
+<p style="text-align: center;">Situé à proximité de <strong>Meaux</strong>, avec un service&nbsp;&nbsp; d'hébergement optionnel en internat, plusieurs restaurants d'application,<br /> un parc de 26 hectares,<br /> un château du XVIIIème siècle.....</p>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" style="text-align: right;"><a href="http://lycee-gueatresmes.fr/cfa.aspx" title="Site du CFA Gué à Tresmes" target="_blank"><strong>En savoir plus...</strong></a><br /></td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" class="tableau_fin_articles"><img src="http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png" style="float: right;" /></td>
+</tr>
+</tbody>
+</table>
+&nbsp; <br />
+<p> </p>
+<p> </p>
+<p> </p>]]></description>
+			<author>brigitte.lalanne@llis.fr (Administrator)</author>
+			<category>C.F.A. Gué à Tresmes</category>
+			<pubDate>Tue, 14 Dec 2010 13:28:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

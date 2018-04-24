@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Groupe FLO</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/partenariat/groupe-flo</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:29:39 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Groupe FLO</title>
+			<link>http://www.epms-ourcq.fr/partenariat/groupe-flo/226-groupe-flo</link>
+			<guid>http://www.epms-ourcq.fr/partenariat/groupe-flo/226-groupe-flo</guid>
+			<description><![CDATA[<table border="0" class="tableau_articles">
+<tbody style="text-align: left;">
+<tr class="ligne_background" style="text-align: left;">
+<td class="tableau_cellule_img" style="text-align: left;"><img src="http://www.epms-ourcq.fr/images/stories/partenariat/FLO/groupe_flo.jpg" alt="Groupe FLO" /></td>
+<td style="text-align: left;"><span class="lettrine"><span style="background-color: #521b3a;">L</span></span>e groupe Flo développe des partenariat spécifiques avec l’AFPA, le  GRETA, des centres spécialisés pour permettre à des travailleurs  handicapés d’obtenir en alternance un diplôme d’Etat en cuisine et  d’intégrer par la suite le Groupe Flo en CDI.</td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" style="text-align: right;"><a href="http://www.groupeflo.com" title="Site internet du groupe FLO" target="_blank"><strong>En savoir plus...</strong></a></td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" class="tableau_fin_articles"><img src="http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png" style="float: right;" /></td>
+</tr>
+</tbody>
+</table>
+&nbsp; <br />]]></description>
+			<author>brigitte.lalanne@llis.fr (Administrator)</author>
+			<category>Groupe FLO</category>
+			<pubDate>Tue, 14 Dec 2010 13:28:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

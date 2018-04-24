@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agrements</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/administration/agrements?ItemId=169</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:23:05 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>agrement.pdf</title>
+			<link>http://www.epms-ourcq.fr/administration/agrements/128-agrement</link>
+			<guid>http://www.epms-ourcq.fr/administration/agrements/128-agrement</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 23 Oct 2014 07:49:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>agrement p 2.pdf</title>
+			<link>http://www.epms-ourcq.fr/administration/agrements/127-agrement-p-2</link>
+			<guid>http://www.epms-ourcq.fr/administration/agrements/127-agrement-p-2</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 23 Oct 2014 07:48:57 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Général</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:20:13Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/externat/2017-01-06-16-48-57?format=feed&amp;type=atom" />
+	<entry>
+		<title>Action de prévention </title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/2017-01-06-16-48-57/542-action-de-prevention"/>
+		<published>2017-01-06T17:03:25Z</published>
+		<updated>2017-01-06T17:03:25Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/2017-01-06-16-48-57/542-action-de-prevention</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img height=&quot;321&quot; width=&quot;428&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/general/prevention1.jpg&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;&lt;span style=&quot;color: #f58220;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;a prévention était à l’honneur au sein de l’I.M.E de l’Ourcq&amp;nbsp;ce mardi 29 novembre 2016! Acquérir de l’autonomie dans les transports en commun est un axe majeur pour les jeunes accueillis au sein de l’EPMS de l’Ourcq. Ils leur permettent d’effectuer le trajet domicile-établissement mais également dans le cadre de la mise ne place de leur projet professionnel où ils sont amenés à se déplacer de façon autonome dans les différentes entreprises. Ils profitent également de ces moyens de transport pour développer une socialisation en dehors du cadre institutionnel&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a société TRANSDEV AMV à travers son directeur Mr GROSSETETE, Mme YUNG en qualité de responsable communication et marketing &amp;nbsp;et le charismatique &amp;nbsp;Mr CALOR, opérateur Réseau&amp;nbsp; chargé des actions de prévention ont sensibilisé les jeunes accueillis aux risques et au bon usage des transports en commun. Le Service Départemental d’Incendie et Secours de Seine et Marne, représenté par le commandant THOMINET et son collègue Jacques DELMOTTE, a été associé de près à cette manifestation.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img height=&quot;321&quot; width=&quot;428&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/general/prevention1.jpg&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;&lt;span style=&quot;color: #f58220;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;a prévention était à l’honneur au sein de l’I.M.E de l’Ourcq&amp;nbsp;ce mardi 29 novembre 2016! Acquérir de l’autonomie dans les transports en commun est un axe majeur pour les jeunes accueillis au sein de l’EPMS de l’Ourcq. Ils leur permettent d’effectuer le trajet domicile-établissement mais également dans le cadre de la mise ne place de leur projet professionnel où ils sont amenés à se déplacer de façon autonome dans les différentes entreprises. Ils profitent également de ces moyens de transport pour développer une socialisation en dehors du cadre institutionnel&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a société TRANSDEV AMV à travers son directeur Mr GROSSETETE, Mme YUNG en qualité de responsable communication et marketing &amp;nbsp;et le charismatique &amp;nbsp;Mr CALOR, opérateur Réseau&amp;nbsp; chargé des actions de prévention ont sensibilisé les jeunes accueillis aux risques et au bon usage des transports en commun. Le Service Départemental d’Incendie et Secours de Seine et Marne, représenté par le commandant THOMINET et son collègue Jacques DELMOTTE, a été associé de près à cette manifestation.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+</feed>

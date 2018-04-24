@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>S.E.S.S.A.D.</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/accompagnement/sessad</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:21:49 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+	</channel>
+</rss>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Unité d'enseignement</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:20:17Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/externat/unite-enseignement?format=feed&amp;type=atom" />
+	<entry>
+		<title>Fête de la Rentrée 2015</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/461-fete-rentree-2015"/>
+		<published>2015-08-28T10:00:00Z</published>
+		<updated>2015-08-28T10:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/461-fete-rentree-2015</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;ette année la Fête de la Rentrée aura lieu le samedi 12 septembre à l’EPMS de l’Ourcq, à partir de midi, le thème en est &amp;nbsp;le Brésil.&lt;/p&gt;
+&lt;p&gt;Comme les années précédentes, il s’agit d’un des moments clé &amp;nbsp;qui ponctuent&amp;nbsp; la vie de notre établissement. Les préparatifs commencent dès le mois de mars afin d’être prêts le jour J. Les équipes sont très mobilisées afin que cette journée soit &amp;nbsp;une fête pour tous&amp;nbsp;: usagers, familles et personnel.&lt;/p&gt;
+&lt;p&gt;A ce jour on dénombre 21 stands, certains sont en rapport direct avec le thème retenu&amp;nbsp;: bracelets brésiliens, peintures….D’autres&amp;nbsp; reprennent les thèmes&amp;nbsp; traditionnels&amp;nbsp;: goûteurs et senteurs, chamboule-tout, promenade en ânes, course à l’éponge ….et bien sûr le spectacle musical avec des danses dont nos jeunes sont très fiers.&lt;/p&gt;
+&lt;p&gt;Il sera possible de se restaurer sur place&amp;nbsp;: crêpes, sandwiches, barbecue et boissons.&lt;/p&gt;
+&lt;p&gt;Et bien sûr le moment tant&amp;nbsp; attendu&amp;nbsp;: la tombola qui cette année encore permettra aux familles de gagner de nombreux lots.&lt;/p&gt;
+Venez donc nombreux faire la fête avec nous.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;ette année la Fête de la Rentrée aura lieu le samedi 12 septembre à l’EPMS de l’Ourcq, à partir de midi, le thème en est &amp;nbsp;le Brésil.&lt;/p&gt;
+&lt;p&gt;Comme les années précédentes, il s’agit d’un des moments clé &amp;nbsp;qui ponctuent&amp;nbsp; la vie de notre établissement. Les préparatifs commencent dès le mois de mars afin d’être prêts le jour J. Les équipes sont très mobilisées afin que cette journée soit &amp;nbsp;une fête pour tous&amp;nbsp;: usagers, familles et personnel.&lt;/p&gt;
+&lt;p&gt;A ce jour on dénombre 21 stands, certains sont en rapport direct avec le thème retenu&amp;nbsp;: bracelets brésiliens, peintures….D’autres&amp;nbsp; reprennent les thèmes&amp;nbsp; traditionnels&amp;nbsp;: goûteurs et senteurs, chamboule-tout, promenade en ânes, course à l’éponge ….et bien sûr le spectacle musical avec des danses dont nos jeunes sont très fiers.&lt;/p&gt;
+&lt;p&gt;Il sera possible de se restaurer sur place&amp;nbsp;: crêpes, sandwiches, barbecue et boissons.&lt;/p&gt;
+&lt;p&gt;Et bien sûr le moment tant&amp;nbsp; attendu&amp;nbsp;: la tombola qui cette année encore permettra aux familles de gagner de nombreux lots.&lt;/p&gt;
+Venez donc nombreux faire la fête avec nous.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>Scolarisation des élèves handicapés</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/285-scolarisation-des-eleves-handicapes"/>
+		<published>2011-08-07T23:00:00Z</published>
+		<updated>2011-08-07T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/285-scolarisation-des-eleves-handicapes</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/ars_academie.jpg&quot; alt=&quot;ARS/Inspection académique&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;daptations et évolutions suite à la Loi du 11 février 2005, Loi pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;color: #f58220;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; alt=&quot;apostrophe&quot; /&gt;&lt;/span&gt; &lt;a href=&quot;http://www.epms-ourcq.fr/&amp;lt;a href=&amp;quot;index.php?option=com_rokdownloads&amp;amp;amp;view=file&amp;amp;amp;task=download&amp;amp;amp;id=124%3AanfhItemid=66&amp;quot;&amp;gt;&quot; title=&quot;La scolarisation des élèves handicapés&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Lire la lettre d'informations&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #c2510f;&quot;&gt;&lt;strong&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/strong&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/component/kunena/5-la-scolarisation-des-eleves-handicapes&quot; title=&quot;Fil de discussion sur le forum&quot;&gt;Suivre le fil de discussion sur le forum&lt;/a&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/ars_academie.jpg&quot; alt=&quot;ARS/Inspection académique&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;daptations et évolutions suite à la Loi du 11 février 2005, Loi pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;color: #f58220;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; alt=&quot;apostrophe&quot; /&gt;&lt;/span&gt; &lt;a href=&quot;http://www.epms-ourcq.fr/&amp;lt;a href=&amp;quot;index.php?option=com_rokdownloads&amp;amp;amp;view=file&amp;amp;amp;task=download&amp;amp;amp;id=124%3AanfhItemid=66&amp;quot;&amp;gt;&quot; title=&quot;La scolarisation des élèves handicapés&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Lire la lettre d'informations&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #c2510f;&quot;&gt;&lt;strong&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/strong&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/component/kunena/5-la-scolarisation-des-eleves-handicapes&quot; title=&quot;Fil de discussion sur le forum&quot;&gt;Suivre le fil de discussion sur le forum&lt;/a&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>Distinction du journal IMEDIA</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/234-distinction-du-journal-imedia"/>
+		<published>2011-03-29T23:00:00Z</published>
+		<updated>2011-03-29T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/234-distinction-du-journal-imedia</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;http://www.cnjs-varenne.org/concours-journauxenligne.html&quot; title=&quot;Prix Varenne 2011&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/prix_varenne2011.jpg&quot; alt=&quot;Prix Varenne 2011&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;ans le cadre de la phase académique&amp;nbsp; du concours national des journaux scolaires et publications en ligne, le journal IMEDIA réalisé par les élèves de l’IMED a été distingué dans sa catégorie (EREA, IME, ULIS, établissement pénitentiaire…).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; alt=&quot;Apostrophe&quot; /&gt; &lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_flippingbook&amp;amp;view=book&amp;amp;id=1&amp;amp;page=1&amp;amp;Itemid=140&quot; title=&quot;Le journal IMEDIA N°8&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Voir le journal&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e palmarès sera dévoilé en ligne à partir du 6 avril avec qui sait une poursuite de l’aventure au niveau national. Félicitations&amp;nbsp;!!!&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;En savoir plus&lt;/span&gt; :&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.cnjs-varenne.org/concours-journauxenligne.html&quot; title=&quot;Prix varenne 2011&quot; target=&quot;_blank&quot;&gt; Prix Varenne&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://clemi.ac-creteil.fr/interactif/spip.php?article157&quot; title=&quot;Centre de Liaison de l'Enseignement et de Médias d'Information&quot; target=&quot;_blank&quot;&gt;CLEMI&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;http://www.cnjs-varenne.org/concours-journauxenligne.html&quot; title=&quot;Prix Varenne 2011&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/prix_varenne2011.jpg&quot; alt=&quot;Prix Varenne 2011&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;ans le cadre de la phase académique&amp;nbsp; du concours national des journaux scolaires et publications en ligne, le journal IMEDIA réalisé par les élèves de l’IMED a été distingué dans sa catégorie (EREA, IME, ULIS, établissement pénitentiaire…).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; alt=&quot;Apostrophe&quot; /&gt; &lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_flippingbook&amp;amp;view=book&amp;amp;id=1&amp;amp;page=1&amp;amp;Itemid=140&quot; title=&quot;Le journal IMEDIA N°8&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Voir le journal&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e palmarès sera dévoilé en ligne à partir du 6 avril avec qui sait une poursuite de l’aventure au niveau national. Félicitations&amp;nbsp;!!!&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;En savoir plus&lt;/span&gt; :&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.cnjs-varenne.org/concours-journauxenligne.html&quot; title=&quot;Prix varenne 2011&quot; target=&quot;_blank&quot;&gt; Prix Varenne&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://clemi.ac-creteil.fr/interactif/spip.php?article157&quot; title=&quot;Centre de Liaison de l'Enseignement et de Médias d'Information&quot; target=&quot;_blank&quot;&gt;CLEMI&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>Activité boxe !</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/153-activite-boxe-"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/153-activite-boxe-</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/boxe.jpg&quot; alt=&quot;Activité boxe&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous avons fait de la boxe le jeudi matin durant trois semaines.&lt;/p&gt;
+&lt;p&gt;Lucien  et Miguel, nos professeurs de boxe, nous ont appris à nous  entrainer  comme&amp;nbsp; des boxeurs professionnels.&lt;/p&gt;
+Ensuite, nous avons fait des petits combats où nous avons appris à ne  pas nous faire mal.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;ucien nous a expliqué que la boxe se pratique sur un ring et non   dans  la cour. La boxe nous a beaucoup plu car nous nous sommes bien    défoulés.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/boxe.jpg&quot; alt=&quot;Activité boxe&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous avons fait de la boxe le jeudi matin durant trois semaines.&lt;/p&gt;
+&lt;p&gt;Lucien  et Miguel, nos professeurs de boxe, nous ont appris à nous  entrainer  comme&amp;nbsp; des boxeurs professionnels.&lt;/p&gt;
+Ensuite, nous avons fait des petits combats où nous avons appris à ne  pas nous faire mal.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;ucien nous a expliqué que la boxe se pratique sur un ring et non   dans  la cour. La boxe nous a beaucoup plu car nous nous sommes bien    défoulés.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>L'IMED apprend à nager à Claye-Souilly</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/155-limed-apprend-a-nager-a-claye-souilly"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/155-limed-apprend-a-nager-a-claye-souilly</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/natation.jpg&quot; alt=&quot;Scéance de natation&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;Q&lt;/span&gt;&lt;/span&gt;uelques classes vont à la piscine de Claye-Souilly le lundi matin.  Nous faisons des jeux pour apprendre à nager.&lt;/p&gt;
+&lt;p&gt;Les maîtres nageurs ont plusieurs activités : ils surveillent la baignade, ils apprennent à nager, ils donnent des cours d'aquagym, ils s'occupent des bébés nageurs.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;H&lt;/span&gt;&lt;/span&gt;uit personnes travaillent à la piscine : il y a 5 maîtres nageurs  (Sandrine, Jérôme, Corinne, Gérard, Alban), Sylvianne et Gisèle  s'occupent de la caisse et du ménage, Denis s'occupe de l'entretien de  la  piscine.&lt;/p&gt;
+&lt;p&gt;Pour savoir les horaires d'ouverture ou avoir plus d'informations, appelez la piscine au 01-60-26-92-00 ou allez sur le site internet : &lt;a href=&quot;http://www.claye-souilly.fr/&quot;&gt;www.claye-souilly.fr&lt;/a&gt; dans la rubrique loisirs et culture.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/pedagogique/natation.jpg&quot; alt=&quot;Scéance de natation&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;Q&lt;/span&gt;&lt;/span&gt;uelques classes vont à la piscine de Claye-Souilly le lundi matin.  Nous faisons des jeux pour apprendre à nager.&lt;/p&gt;
+&lt;p&gt;Les maîtres nageurs ont plusieurs activités : ils surveillent la baignade, ils apprennent à nager, ils donnent des cours d'aquagym, ils s'occupent des bébés nageurs.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;H&lt;/span&gt;&lt;/span&gt;uit personnes travaillent à la piscine : il y a 5 maîtres nageurs  (Sandrine, Jérôme, Corinne, Gérard, Alban), Sylvianne et Gisèle  s'occupent de la caisse et du ménage, Denis s'occupe de l'entretien de  la  piscine.&lt;/p&gt;
+&lt;p&gt;Pour savoir les horaires d'ouverture ou avoir plus d'informations, appelez la piscine au 01-60-26-92-00 ou allez sur le site internet : &lt;a href=&quot;http://www.claye-souilly.fr/&quot;&gt;www.claye-souilly.fr&lt;/a&gt; dans la rubrique loisirs et culture.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>La fabrication du pain à l’IME de La Gabrielle</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/50-la-fabrication-du-pain-a-lime-de-la-gabrielle"/>
+		<published>2009-12-18T11:29:22Z</published>
+		<updated>2009-12-18T11:29:22Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/50-la-fabrication-du-pain-a-lime-de-la-gabrielle</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; style=&quot;width: 644px; height: 232px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;vv&lt;img height=&quot;206&quot; width=&quot;324&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ecole/La_fabrication_du_pain__lIME_de_La_Gabrielle.jpg&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e mardi 20 Juin 2009, nous sommes allés à l'IME La Gabrielle. Nous  avons été accueillis par les éducateurs boulangers: Bernard et Jean et  par leurs apprenties.&lt;/p&gt;
+&lt;p&gt;Avec eux, nous avons fabriqué du pain. Avec de la pâte, nous avons  façonné des baguettes.&lt;/p&gt;
+&lt;p&gt;Après que les baguettes aient un peu gonflé nous les avons badigeonnées  avec du jaune d'œuf.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt; 
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; style=&quot;width: 644px; height: 232px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;vv&lt;img height=&quot;206&quot; width=&quot;324&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ecole/La_fabrication_du_pain__lIME_de_La_Gabrielle.jpg&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e mardi 20 Juin 2009, nous sommes allés à l'IME La Gabrielle. Nous  avons été accueillis par les éducateurs boulangers: Bernard et Jean et  par leurs apprenties.&lt;/p&gt;
+&lt;p&gt;Avec eux, nous avons fabriqué du pain. Avec de la pâte, nous avons  façonné des baguettes.&lt;/p&gt;
+&lt;p&gt;Après que les baguettes aient un peu gonflé nous les avons badigeonnées  avec du jaune d'œuf.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt; 
+</content>
+	</entry>
+	<entry>
+		<title>Journée à l'école de Chelles</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/49-journee-a-lecole-de-chelles"/>
+		<published>2009-12-18T11:16:46Z</published>
+		<updated>2009-12-18T11:16:46Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/49-journee-a-lecole-de-chelles</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;img height=&quot;280&quot; width=&quot;301&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ecole/journe a lcole de chellestest.jpg&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;T&lt;/span&gt;&lt;/span&gt;ous les mardis, nous sommes allés à l’école Calmette, à Chelles, pour travailler avec les enfants de la CLIS. Fernanda, notre éducatrice et Virginie, la maîtresse, nous ont accompagnés.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;img height=&quot;280&quot; width=&quot;301&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ecole/journe a lcole de chellestest.jpg&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;T&lt;/span&gt;&lt;/span&gt;ous les mardis, nous sommes allés à l’école Calmette, à Chelles, pour travailler avec les enfants de la CLIS. Fernanda, notre éducatrice et Virginie, la maîtresse, nous ont accompagnés.&lt;/p&gt;
+</content>
+	</entry>
+</feed>

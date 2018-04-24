@@ -1,0 +1,71 @@
+/* Blue */
+
+body.bc-blue {
+	border-top: 4px solid #8b9d63;
+}
+
+.bc-blue .contentheading,
+.bc-blue #main-section a,
+.bc-blue .moduletable h3,
+.bc-blue #left-column .module h3,
+.bc-blue #right-column .module h3,
+.bc-blue #left-column .module-menu h3,
+.bc-blue #right-column .module-menu h3,
+.bc-blue #bottommodules1 .module h3,
+.bc-blue #bottommodules2 .module h3,
+.bc-blue #sub-menu a {
+	color: #8b9d63;
+}
+.bc-blue #left-column a {
+        color : #555555;
+}
+
+.bc-blue img#logo {
+	background: url(../images/blue/logo.png) 0 0 no-repeat;
+}
+
+.bc-blue #showcase {
+	background: #8b9d63 url(http://www.epms-ourcq.fr/templates/rt_terrantribune_j15/images/blue/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-blue .showcase-div {
+	background: url(../images/blue/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-blue #showcase .column-1 {
+	border-right: 1px solid #8b9d63;
+}
+
+.bc-blue #showcase a {
+	color: #8b9d63;
+}
+
+.bc-blue #showcase ul.latestnews li {
+	background-color: #8b9d63;
+}
+
+.bc-blue #showcase ul.latestnews li:hover {
+	background-color: #8b9d63;
+}
+
+.bc-blue .date-block {
+	border-bottom: 1px solid #8b9d63;
+}
+
+.bc-blue span.date-number {
+	background: #8b9d63;
+	color: #8b9d63;
+}
+
+.bc-blue #horiz-menu li.active a,
+.bc-blue #horiz-menu li.active .separator,
+.bc-blue #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-blue #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #8b9d63;
+	color: #8b9d63;
+}
+
+.bc-blue #news-rotator .story {
+	border-top: 5px solid #8b9d63;
+	color: #8b9d63;
+}

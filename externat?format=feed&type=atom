@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Externat</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:17:35Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/externat?format=feed&amp;type=atom" />
+	<entry>
+		<title>Action de prévention </title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/2017-01-06-16-48-57/542-action-de-prevention"/>
+		<published>2017-01-06T17:03:25Z</published>
+		<updated>2017-01-06T17:03:25Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/2017-01-06-16-48-57/542-action-de-prevention</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img height=&quot;321&quot; width=&quot;428&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/general/prevention1.jpg&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;&lt;span style=&quot;color: #f58220;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;a prévention était à l’honneur au sein de l’I.M.E de l’Ourcq&amp;nbsp;ce mardi 29 novembre 2016! Acquérir de l’autonomie dans les transports en commun est un axe majeur pour les jeunes accueillis au sein de l’EPMS de l’Ourcq. Ils leur permettent d’effectuer le trajet domicile-établissement mais également dans le cadre de la mise ne place de leur projet professionnel où ils sont amenés à se déplacer de façon autonome dans les différentes entreprises. Ils profitent également de ces moyens de transport pour développer une socialisation en dehors du cadre institutionnel&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a société TRANSDEV AMV à travers son directeur Mr GROSSETETE, Mme YUNG en qualité de responsable communication et marketing &amp;nbsp;et le charismatique &amp;nbsp;Mr CALOR, opérateur Réseau&amp;nbsp; chargé des actions de prévention ont sensibilisé les jeunes accueillis aux risques et au bon usage des transports en commun. Le Service Départemental d’Incendie et Secours de Seine et Marne, représenté par le commandant THOMINET et son collègue Jacques DELMOTTE, a été associé de près à cette manifestation.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img height=&quot;321&quot; width=&quot;428&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/general/prevention1.jpg&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;&lt;span style=&quot;color: #f58220;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;a prévention était à l’honneur au sein de l’I.M.E de l’Ourcq&amp;nbsp;ce mardi 29 novembre 2016! Acquérir de l’autonomie dans les transports en commun est un axe majeur pour les jeunes accueillis au sein de l’EPMS de l’Ourcq. Ils leur permettent d’effectuer le trajet domicile-établissement mais également dans le cadre de la mise ne place de leur projet professionnel où ils sont amenés à se déplacer de façon autonome dans les différentes entreprises. Ils profitent également de ces moyens de transport pour développer une socialisation en dehors du cadre institutionnel&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a société TRANSDEV AMV à travers son directeur Mr GROSSETETE, Mme YUNG en qualité de responsable communication et marketing &amp;nbsp;et le charismatique &amp;nbsp;Mr CALOR, opérateur Réseau&amp;nbsp; chargé des actions de prévention ont sensibilisé les jeunes accueillis aux risques et au bon usage des transports en commun. Le Service Départemental d’Incendie et Secours de Seine et Marne, représenté par le commandant THOMINET et son collègue Jacques DELMOTTE, a été associé de près à cette manifestation.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Vote des représentants des jeunes au conseil de vie social</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/133-externat/539-2016-11-23-11-53-27"/>
+		<published>2016-11-23T11:49:24Z</published>
+		<updated>2016-11-23T11:49:24Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/133-externat/539-2016-11-23-11-53-27</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;iframe width=&quot;280&quot; src=&quot;https://www.youtube.com/embed//QwWnP4p5b4I&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #ff9900;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;e vendredi 18 Novembre 2016, les jeunes de l’EPMS ont procédé à l’élection de leurs représentants au Comité de Vie Social.  Ce comité est une instance de participation pour l’ensemble des parties prenantes de l’établissement.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;iframe width=&quot;280&quot; src=&quot;https://www.youtube.com/embed/Xsv_gdTiz68&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #ff9900;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;es élections ont été réalisées dans les règles de l’art (urnes, enveloppes, isoloirs et signature sur un registre). L’excellente organisation de cet acte citoyen et la motivation des 18 candidats ont permis que cela se déroule dans un climat très studieux.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;iframe width=&quot;280&quot; src=&quot;https://www.youtube.com/embed/vwCntSoGETQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #ff9900;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;erci aux enfants pour ce taux de participation de 100% que bien des hommes politiques enverraient !&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;iframe width=&quot;280&quot; src=&quot;https://www.youtube.com/embed//QwWnP4p5b4I&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #ff9900;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;e vendredi 18 Novembre 2016, les jeunes de l’EPMS ont procédé à l’élection de leurs représentants au Comité de Vie Social.  Ce comité est une instance de participation pour l’ensemble des parties prenantes de l’établissement.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;iframe width=&quot;280&quot; src=&quot;https://www.youtube.com/embed/Xsv_gdTiz68&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #ff9900;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;es élections ont été réalisées dans les règles de l’art (urnes, enveloppes, isoloirs et signature sur un registre). L’excellente organisation de cet acte citoyen et la motivation des 18 candidats ont permis que cela se déroule dans un climat très studieux.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;iframe width=&quot;280&quot; src=&quot;https://www.youtube.com/embed/vwCntSoGETQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #ff9900;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;erci aux enfants pour ce taux de participation de 100% que bien des hommes politiques enverraient !&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Les vacances de l'UAA</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-educative/341-vacanceshiveruaa2016"/>
+		<published>2016-03-14T23:00:00Z</published>
+		<updated>2016-03-14T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-educative/341-vacanceshiveruaa2016</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;lugeflou&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/hebergement/hiver_UAA_2016/lugeflou.png&quot; height=&quot;249&quot; width=&quot;332&quot; /&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;'année est déjà bien entamée et nous voici déjà aux vacances de février.&lt;/p&gt;
+&lt;p&gt;Pop-cake,    trampoline, luge, patin à glace, ferme pédagogique,  aquarium,   le    programme est bien chargé&amp;nbsp;pour notre plus grand  bonheur&amp;nbsp;!&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;N&lt;/span&gt;icolas le plus courageux de nous tous, s'est volontiers prêté aux   descentes luge de l'UCPA.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;lugeflou&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/hebergement/hiver_UAA_2016/lugeflou.png&quot; height=&quot;249&quot; width=&quot;332&quot; /&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;'année est déjà bien entamée et nous voici déjà aux vacances de février.&lt;/p&gt;
+&lt;p&gt;Pop-cake,    trampoline, luge, patin à glace, ferme pédagogique,  aquarium,   le    programme est bien chargé&amp;nbsp;pour notre plus grand  bonheur&amp;nbsp;!&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;N&lt;/span&gt;icolas le plus courageux de nous tous, s'est volontiers prêté aux   descentes luge de l'UCPA.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Rénovation du gymnase</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-educative/508-renovationgymnase"/>
+		<published>2016-03-08T23:00:00Z</published>
+		<updated>2016-03-08T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-educative/508-renovationgymnase</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;img_1&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite-educative/renovation_gymnase/img_1.jpg&quot; height=&quot;353&quot; width=&quot;470&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;T&lt;/span&gt;ravaux de rénovation du gymnase&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;e  gymnase de l’E.P.M.S. de l’Ourcq avait besoin d’une cure de  rajeunissement, c’est désormais chose faite puisque cet été le sol a été  complètement refait et que les travaux de peinture sont terminés. Cet  embellissement a été réalisé par Karim&amp;nbsp;; Pierre et Imad , nous leur  adressons toutes nos félicitations.&lt;/p&gt;
+L’inauguration du gymnase a eu lieu mardi 8 mars 2016 pour le plus grand  bonheur de nos jeunes sportifs qui ont pu à nouveau échanger quelques  paniers au basket&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;img_1&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite-educative/renovation_gymnase/img_1.jpg&quot; height=&quot;353&quot; width=&quot;470&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;T&lt;/span&gt;ravaux de rénovation du gymnase&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot; style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;e  gymnase de l’E.P.M.S. de l’Ourcq avait besoin d’une cure de  rajeunissement, c’est désormais chose faite puisque cet été le sol a été  complètement refait et que les travaux de peinture sont terminés. Cet  embellissement a été réalisé par Karim&amp;nbsp;; Pierre et Imad , nous leur  adressons toutes nos félicitations.&lt;/p&gt;
+L’inauguration du gymnase a eu lieu mardi 8 mars 2016 pour le plus grand  bonheur de nos jeunes sportifs qui ont pu à nouveau échanger quelques  paniers au basket&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Fête de la Rentrée 2015</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-enseignement/461-fete-rentree-2015"/>
+		<published>2015-08-28T10:00:00Z</published>
+		<updated>2015-08-28T10:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-enseignement/461-fete-rentree-2015</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;ette année la Fête de la Rentrée aura lieu le samedi 12 septembre à l’EPMS de l’Ourcq, à partir de midi, le thème en est &amp;nbsp;le Brésil.&lt;/p&gt;
+&lt;p&gt;Comme les années précédentes, il s’agit d’un des moments clé &amp;nbsp;qui ponctuent&amp;nbsp; la vie de notre établissement. Les préparatifs commencent dès le mois de mars afin d’être prêts le jour J. Les équipes sont très mobilisées afin que cette journée soit &amp;nbsp;une fête pour tous&amp;nbsp;: usagers, familles et personnel.&lt;/p&gt;
+&lt;p&gt;A ce jour on dénombre 21 stands, certains sont en rapport direct avec le thème retenu&amp;nbsp;: bracelets brésiliens, peintures….D’autres&amp;nbsp; reprennent les thèmes&amp;nbsp; traditionnels&amp;nbsp;: goûteurs et senteurs, chamboule-tout, promenade en ânes, course à l’éponge ….et bien sûr le spectacle musical avec des danses dont nos jeunes sont très fiers.&lt;/p&gt;
+&lt;p&gt;Il sera possible de se restaurer sur place&amp;nbsp;: crêpes, sandwiches, barbecue et boissons.&lt;/p&gt;
+&lt;p&gt;Et bien sûr le moment tant&amp;nbsp; attendu&amp;nbsp;: la tombola qui cette année encore permettra aux familles de gagner de nombreux lots.&lt;/p&gt;
+Venez donc nombreux faire la fête avec nous.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;ette année la Fête de la Rentrée aura lieu le samedi 12 septembre à l’EPMS de l’Ourcq, à partir de midi, le thème en est &amp;nbsp;le Brésil.&lt;/p&gt;
+&lt;p&gt;Comme les années précédentes, il s’agit d’un des moments clé &amp;nbsp;qui ponctuent&amp;nbsp; la vie de notre établissement. Les préparatifs commencent dès le mois de mars afin d’être prêts le jour J. Les équipes sont très mobilisées afin que cette journée soit &amp;nbsp;une fête pour tous&amp;nbsp;: usagers, familles et personnel.&lt;/p&gt;
+&lt;p&gt;A ce jour on dénombre 21 stands, certains sont en rapport direct avec le thème retenu&amp;nbsp;: bracelets brésiliens, peintures….D’autres&amp;nbsp; reprennent les thèmes&amp;nbsp; traditionnels&amp;nbsp;: goûteurs et senteurs, chamboule-tout, promenade en ânes, course à l’éponge ….et bien sûr le spectacle musical avec des danses dont nos jeunes sont très fiers.&lt;/p&gt;
+&lt;p&gt;Il sera possible de se restaurer sur place&amp;nbsp;: crêpes, sandwiches, barbecue et boissons.&lt;/p&gt;
+&lt;p&gt;Et bien sûr le moment tant&amp;nbsp; attendu&amp;nbsp;: la tombola qui cette année encore permettra aux familles de gagner de nombreux lots.&lt;/p&gt;
+Venez donc nombreux faire la fête avec nous.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>Des jeunes à Avignon</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/itep/468-transfertavignonnews"/>
+		<published>2015-07-17T08:22:07Z</published>
+		<updated>2015-07-17T08:22:07Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/itep/468-transfertavignonnews</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;h2&gt;&lt;span style=&quot;color: #669933;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #f58220;&quot;&gt;Des nouvelles des jeunes en transfert à Avignon&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;image4miniz&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ITEP/image4miniz.jpg&quot; height=&quot;300&quot; width=&quot;400&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;es nouvelles des jeunes&amp;nbsp;&lt;span style=&quot;font-size: 12px; line-height: 16.2px;&quot;&gt;en transfert à Avignon&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;image3miniz&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ITEP/image3miniz.jpg&quot; height=&quot;300&quot; width=&quot;400&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;ardi 7 juillet&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt; e réveil est difficile ce matin, les 14h de route  se font encore  ressentir. Gaëtan est parti avec Mickaël chercher le pain  à 9h pour le  petit déjeuner. Petit déjeuner et repas dans la bonne  humeur. Nous  avons même eu la visite des éducateurs de l'ITEP d'Avignon  qui sont  passés nous souhaiter un bon séjour.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;h2&gt;&lt;span style=&quot;color: #669933;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #f58220;&quot;&gt;Des nouvelles des jeunes en transfert à Avignon&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;image4miniz&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ITEP/image4miniz.jpg&quot; height=&quot;300&quot; width=&quot;400&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;es nouvelles des jeunes&amp;nbsp;&lt;span style=&quot;font-size: 12px; line-height: 16.2px;&quot;&gt;en transfert à Avignon&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;image3miniz&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/ITEP/image3miniz.jpg&quot; height=&quot;300&quot; width=&quot;400&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;ardi 7 juillet&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt; e réveil est difficile ce matin, les 14h de route  se font encore  ressentir. Gaëtan est parti avec Mickaël chercher le pain  à 9h pour le  petit déjeuner. Petit déjeuner et repas dans la bonne  humeur. Nous  avons même eu la visite des éducateurs de l'ITEP d'Avignon  qui sont  passés nous souhaiter un bon séjour.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Escapade vélocipédique</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-professionnelle/465-escapadevelocipedique"/>
+		<published>2015-06-29T23:00:00Z</published>
+		<updated>2015-06-29T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-professionnelle/465-escapadevelocipedique</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;20150616_162804miniz&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite_professionnelle/velocipede/20150616_162804miniz.jpg&quot; width=&quot;460&quot; height=&quot;345&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es 15 et 16 juin, Jean –Christophe,  professeur de  sport à l’EPMS, a organisé comme tous les ans, la  traditionnelle sortie  vélo le long du canal de l’Ourcq. Pour  l’accompagner, il avait fait  appel&amp;nbsp; à 2 enseignants&amp;nbsp; et un chef de  service.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;eux groupes de niveaux ont été constitués&amp;nbsp;:&lt;/p&gt;
+&lt;p&gt;Le 15 juin ,le premier groupe (composé de 11 jeunes) a effectué une sortie  de 30 kilomètres le long du canal de l’Ourcq avec la découverte de  l’usine élévatrice de Trilbardou.&lt;/p&gt;
+&lt;p&gt;Le 16 juin, le second groupe (composé de 10 jeunes a également visité  l’usine, mais a fortement augmenté le kilométrage( 45 kms environ)  puisque nous nous sommes rendus à Esbly où nous avons eu la chance de  voir les avions et ULM&amp;nbsp; bien alignés dans les hangars  de l’aérodrome.&lt;/p&gt;
+&lt;p&gt;Le midi, nous avons pique-niqué dans une prairie&amp;nbsp; au bord de l’eau et à l’abri d’un soleil bien présent.&lt;/p&gt;
+&lt;p&gt;Jean- Christophe a eu la bonne idée d’associer le  centre de la Gabrielle à ce projet, ainsi, plusieurs jeunes &amp;nbsp;ont pu  partager &amp;nbsp;ces moments sympathiques en notre compagnie.&lt;/p&gt;
+&lt;p&gt;Nous avons pu utiliser pour la première fois des  vélos tout neufs mis à notre disposition par l’établissement. Philippe,  le chef de service ,a&amp;nbsp; donné des indications précieuses sur  l’utilisation des dérailleurs et sur le respect du matériel.&lt;/p&gt;
+&lt;p&gt;Cette sortie à la fois sportive et culturelle , nous a permis d’apprendre des choses intéressantes et passionnantes.&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img alt=&quot;20150616_162804miniz&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite_professionnelle/velocipede/20150616_162804miniz.jpg&quot; width=&quot;460&quot; height=&quot;345&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es 15 et 16 juin, Jean –Christophe,  professeur de  sport à l’EPMS, a organisé comme tous les ans, la  traditionnelle sortie  vélo le long du canal de l’Ourcq. Pour  l’accompagner, il avait fait  appel&amp;nbsp; à 2 enseignants&amp;nbsp; et un chef de  service.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;eux groupes de niveaux ont été constitués&amp;nbsp;:&lt;/p&gt;
+&lt;p&gt;Le 15 juin ,le premier groupe (composé de 11 jeunes) a effectué une sortie  de 30 kilomètres le long du canal de l’Ourcq avec la découverte de  l’usine élévatrice de Trilbardou.&lt;/p&gt;
+&lt;p&gt;Le 16 juin, le second groupe (composé de 10 jeunes a également visité  l’usine, mais a fortement augmenté le kilométrage( 45 kms environ)  puisque nous nous sommes rendus à Esbly où nous avons eu la chance de  voir les avions et ULM&amp;nbsp; bien alignés dans les hangars  de l’aérodrome.&lt;/p&gt;
+&lt;p&gt;Le midi, nous avons pique-niqué dans une prairie&amp;nbsp; au bord de l’eau et à l’abri d’un soleil bien présent.&lt;/p&gt;
+&lt;p&gt;Jean- Christophe a eu la bonne idée d’associer le  centre de la Gabrielle à ce projet, ainsi, plusieurs jeunes &amp;nbsp;ont pu  partager &amp;nbsp;ces moments sympathiques en notre compagnie.&lt;/p&gt;
+&lt;p&gt;Nous avons pu utiliser pour la première fois des  vélos tout neufs mis à notre disposition par l’établissement. Philippe,  le chef de service ,a&amp;nbsp; donné des indications précieuses sur  l’utilisation des dérailleurs et sur le respect du matériel.&lt;/p&gt;
+&lt;p&gt;Cette sortie à la fois sportive et culturelle , nous a permis d’apprendre des choses intéressantes et passionnantes.&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Fête du sport 2015</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-educative/462-fetesport2015"/>
+		<published>2015-06-25T23:00:00Z</published>
+		<updated>2015-06-25T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-educative/462-fetesport2015</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img width=&quot;460&quot; height=&quot;345&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite-educative/fete_sport_2015/p1010232miniz.jpg&quot; alt=&quot;p1010232miniz&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;S&lt;/span&gt;&lt;/span&gt;téphanie et Jean-Christophe , éducateurs sportifs,  organisent comme  tous les ans une semaine d’activités de sport&amp;nbsp;:  natation, hockey,  badminton, basket fauteuil, football…cette animation  est proposée pour  tous les enfants et les adultes.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;E&lt;/span&gt;&lt;/span&gt;lle se clôturera vendredi 3 juillet 2015 par la remise des récompenses à partir de 11 heures&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img width=&quot;460&quot; height=&quot;345&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite-educative/fete_sport_2015/p1010232miniz.jpg&quot; alt=&quot;p1010232miniz&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;S&lt;/span&gt;&lt;/span&gt;téphanie et Jean-Christophe , éducateurs sportifs,  organisent comme  tous les ans une semaine d’activités de sport&amp;nbsp;:  natation, hockey,  badminton, basket fauteuil, football…cette animation  est proposée pour  tous les enfants et les adultes.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;E&lt;/span&gt;&lt;/span&gt;lle se clôturera vendredi 3 juillet 2015 par la remise des récompenses à partir de 11 heures&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Baptême de l'air</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-professionnelle/459-baptemedelair"/>
+		<published>2015-06-05T14:03:27Z</published>
+		<updated>2015-06-05T14:03:27Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-professionnelle/459-baptemedelair</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img height=&quot;284&quot; width=&quot;500&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite_professionnelle/20150603_1015502.jpg&quot; alt=&quot;20150603_1015502&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Baptême de l’air à l’aérodrome de Lognes le mercredi 3 juin 2015,&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;omme l’an dernier, un baptême de l’air  a été  organisé au bénéfice des usagers de l’établissement grâce au  concours du  Rotary Club de CRECY En Brie, &amp;nbsp;Boucles de la Marne. Cette  sortie était  organisée par le service des sports, &amp;nbsp;un enseignant  de  l’unité professionnelle, une éducatrice de l’internat et l’éducateur  d’externat de l’ITEP&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;e sont, cette année, non pas 25 mais  30 jeunes,  filles et garçons, qui ont bénéficié d’un baptême de l’air  d’une durée  de 20 minutes, avec survol du parc de Disney. Lors de cette   manifestation à laquelle étaient invités d’autres établissements,   (300 participants) , de nombreuses animations ont été proposées&amp;nbsp;:   magie, &amp;nbsp;clown, un orchestre animait la manifestation. A u moment de   l’envol, leur ont été offerts une casquette et un tee-shirt, puis à   l’atterrissage, une photo avec le pilote a été réalisée  et chacun a  reçu des confiseries, une peluche et &amp;nbsp;une maquette d’avion.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;ette belle matinée s’est terminée avec &amp;nbsp;un pique nique organisé par le service restauration de l’établissement.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img height=&quot;284&quot; width=&quot;500&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite_professionnelle/20150603_1015502.jpg&quot; alt=&quot;20150603_1015502&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Baptême de l’air à l’aérodrome de Lognes le mercredi 3 juin 2015,&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;omme l’an dernier, un baptême de l’air  a été  organisé au bénéfice des usagers de l’établissement grâce au  concours du  Rotary Club de CRECY En Brie, &amp;nbsp;Boucles de la Marne. Cette  sortie était  organisée par le service des sports, &amp;nbsp;un enseignant  de  l’unité professionnelle, une éducatrice de l’internat et l’éducateur  d’externat de l’ITEP&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;e sont, cette année, non pas 25 mais  30 jeunes,  filles et garçons, qui ont bénéficié d’un baptême de l’air  d’une durée  de 20 minutes, avec survol du parc de Disney. Lors de cette   manifestation à laquelle étaient invités d’autres établissements,   (300 participants) , de nombreuses animations ont été proposées&amp;nbsp;:   magie, &amp;nbsp;clown, un orchestre animait la manifestation. A u moment de   l’envol, leur ont été offerts une casquette et un tee-shirt, puis à   l’atterrissage, une photo avec le pilote a été réalisée  et chacun a  reçu des confiseries, une peluche et &amp;nbsp;une maquette d’avion.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;ette belle matinée s’est terminée avec &amp;nbsp;un pique nique organisé par le service restauration de l’établissement.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Cyclisme et Solidarité</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/externat/unite-educative/454-cyclismesolidarite"/>
+		<published>2015-06-01T23:00:00Z</published>
+		<updated>2015-06-01T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/externat/unite-educative/454-cyclismesolidarite</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img height=&quot;880&quot; width=&quot;650&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite-educative/cyclisme/marne_article.jpg&quot; alt=&quot;marne_article&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&amp;nbsp; &lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;rticle paru dans le Journal &quot;La Marne&quot; - Mercredi 27 mai 2015&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img height=&quot;880&quot; width=&quot;650&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite-educative/cyclisme/marne_article.jpg&quot; alt=&quot;marne_article&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&amp;nbsp; &lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #f58220;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;rticle paru dans le Journal &quot;La Marne&quot; - Mercredi 27 mai 2015&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+</feed>

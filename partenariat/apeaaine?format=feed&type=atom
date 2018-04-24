@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">A.P.E.A.A.I.N.E.</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:23:41Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/partenariat/apeaaine?format=feed&amp;type=atom" />
+	<entry>
+		<title>A.P.E.A.A.I.N.E.</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/apeaaine/152-apeaaine"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/apeaaine/152-apeaaine</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;A.P.E.A.A.I.N.E.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;ASSOCIATION DE PARENTS &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D'ENFANTS ADOLESCENTS ET ADULTES &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INADAPTES DU NORD EST BANLIEUE&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ILLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Etablissement d’aide par le travail Les ateliers de l’Ambresis - APEAAINE&lt;br /&gt;&lt;br /&gt;12 rue de l’Industrie - 77270 VILLEPARISIS&lt;br /&gt;&lt;br /&gt;01 60 21 20 41 - Email : esatambresis@aede.fr&lt;br /&gt;&lt;br /&gt;100 places - Principal handicap accueilli : déficience intellectuelle&lt;br /&gt;&lt;br /&gt;Activités proposées : conditionnements divers, prestations de services en entreprise, petits travaux d’entretien.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;I&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;LLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Le Clos des Châtaigniers&lt;br /&gt;&lt;br /&gt;2/6 rue de l’Île-de-France - 77270 Villeparisis&lt;/p&gt;
+&lt;p&gt;01 64 44 74 40 - Email : leclosdeschataigniers@aede.fr&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : handicap mental ou psychique&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Service d’accompagnement à la vie sociale &quot;Au Fil de l’Ourcq&quot; - APEAAINE&lt;br /&gt;&lt;br /&gt;30 rue Aristide Briand - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81&lt;br /&gt;&lt;br /&gt;Handicap accueilli : handicap mental ou psychique - Zone d’intervention : MDS de Meaux et Mitry&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Les Appartements du Clos des châtaigniers - APEAAINE&lt;br /&gt;&lt;br /&gt;12 bis rue Alfred Maury - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81 - Email : closdeschataigniers@apeaaine.com&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : déficience intellectuelle&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;A.P.E.A.A.I.N.E.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;ASSOCIATION DE PARENTS &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D'ENFANTS ADOLESCENTS ET ADULTES &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INADAPTES DU NORD EST BANLIEUE&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ILLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Etablissement d’aide par le travail Les ateliers de l’Ambresis - APEAAINE&lt;br /&gt;&lt;br /&gt;12 rue de l’Industrie - 77270 VILLEPARISIS&lt;br /&gt;&lt;br /&gt;01 60 21 20 41 - Email : esatambresis@aede.fr&lt;br /&gt;&lt;br /&gt;100 places - Principal handicap accueilli : déficience intellectuelle&lt;br /&gt;&lt;br /&gt;Activités proposées : conditionnements divers, prestations de services en entreprise, petits travaux d’entretien.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;I&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;LLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Le Clos des Châtaigniers&lt;br /&gt;&lt;br /&gt;2/6 rue de l’Île-de-France - 77270 Villeparisis&lt;/p&gt;
+&lt;p&gt;01 64 44 74 40 - Email : leclosdeschataigniers@aede.fr&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : handicap mental ou psychique&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Service d’accompagnement à la vie sociale &quot;Au Fil de l’Ourcq&quot; - APEAAINE&lt;br /&gt;&lt;br /&gt;30 rue Aristide Briand - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81&lt;br /&gt;&lt;br /&gt;Handicap accueilli : handicap mental ou psychique - Zone d’intervention : MDS de Meaux et Mitry&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Les Appartements du Clos des châtaigniers - APEAAINE&lt;br /&gt;&lt;br /&gt;12 bis rue Alfred Maury - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81 - Email : closdeschataigniers@apeaaine.com&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : déficience intellectuelle&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+</feed>

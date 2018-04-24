@@ -1,0 +1,72 @@
+/* Purple */
+
+body.bc-purple {
+	border-top: 4px solid #521b3a;
+}
+
+.bc-purple .contentheading,
+.bc-purple #main-section a,
+.bc-purple .moduletable h3,
+.bc-purple #left-column .module h3,
+.bc-purple #right-column .module h3,
+.bc-purple #left-column .module-menu h3,
+.bc-purple #right-column .module-menu h3,
+.bc-purple #bottommodules1 .module h3,
+.bc-purple #bottommodules2 .module h3,
+.bc-purple #sub-menu a {
+	color: #521b3a;
+}
+
+.bc-purple #left-column a {
+        color : #555555;
+}
+
+.bc-purple img#logo {
+	background: url(../images/purple/logo.png) 0 0 no-repeat;
+}
+
+.bc-purple #showcase {
+	background: #521b3a url(../images/purple/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-purple .showcase-div {
+	background: url(../images/purple/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-purple #showcase .column-1 {
+	border-right: 1px solid #521b3a;
+}
+
+.bc-purple #showcase a {
+	color: #521b3a;
+}
+
+.bc-purple #showcase ul.latestnews li {
+	background-color: #521b3a;
+}
+
+.bc-purple #showcase ul.latestnews li:hover {
+	background-color: #521b3a;
+}
+
+.bc-purple .date-block {
+	border-bottom: 1px solid #521b3a;
+}
+
+.bc-purple span.date-number {
+	background: #521b3a;
+	color: #521b3a;
+}
+
+.bc-purple #horiz-menu li.active a,
+.bc-purple #horiz-menu li.active .separator,
+.bc-purple #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-purple #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #521b3a;
+	color: #521b3a;
+}
+
+.bc-purple #news-rotator .story {
+	border-top: 5px solid #521b3a;
+	color: #521b3a;
+}

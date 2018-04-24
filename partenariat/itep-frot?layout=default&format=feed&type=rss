@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>I.T.E.P. Frot</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/partenariat/itep-frot</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:29:38 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Présentation de l'I.T.E.P. Frot</title>
+			<link>http://www.epms-ourcq.fr/partenariat/itep-frot/172-presentation-de-litep-frot</link>
+			<guid>http://www.epms-ourcq.fr/partenariat/itep-frot/172-presentation-de-litep-frot</guid>
+			<description><![CDATA[<table border="0" class="tableau_articles">
+<tbody style="text-align: left;">
+<tr class="ligne_background" style="text-align: left;">
+<td style="text-align: center; border: 3px dotted #521b3a;" class="tableau_cellule_img">
+<p><span style="color: #521b3a;"><span style="font-size: 10pt;"><span style="text-decoration: underline;"><strong>Adresse administrative</strong></span></span></span></p>
+<p><span style="color: #521b3a;"><span style="font-size: 10pt;"><span style="text-decoration: underline;"><strong><br /></strong></span></span></span></p>
+<p><span style="color: #521b3a;"><span style="font-size: 10pt;">15 RUE LOUIS BRAILLE<br /> 77100 MEAUX</span></span></p>
+<p><span style="color: #521b3a;"><span style="font-size: 10pt;"><br /></span></span></p>
+<span style="color: #521b3a;"><span style="font-size: 10pt;"><strong>Tél : </strong>01 64 34 52 54 <br /></span></span>
+<p><span style="color: #521b3a;"><span style="font-size: 10pt;"><strong>Fax : </strong>01 60 09 45 45</span></span></p>
+</td>
+<td style="text-align: left;">
+<p style="text-align: center;"><span style="text-decoration: underline;"><span style="font-size: 10pt;"><strong>Institut thérapeutique éducatif et pédagogique (I.T.E.P.)</strong></span></span></p>
+<p><span class="lettrine"><span style="background-color: #521b3a;">L</span></span>es Instituts Educatifs, Thérapeutiques et Pédagogiques (ITEP) sont des structures médico-sociales accueillant des enfants et adolescents qui présentent des difficultés psychologiques dont l’expression, notamment les troubles du comportement, perturbe gravement la socialisation et l’accès aux apprentissages.</p>
+<p>Les Instituts Educatifs, Thérapeutiques et Pédagogiques conjuguent au sein d’une même équipe institutionnelle, des interventions thérapeutiques, éducatives et pédagogiques.</p>
+<p>Les Instituts Educatifs, Thérapeutiques et Pédagogiques tentent ainsi d’inverser le processus handicapant dans lequel les enfants et adolescents aux potentialités intellectuelles et cognitives intactes, sont engagés.</p>
+<p>L’accueil en Institut Educatif, Thérapeutique et Pédagogique se fait en internat ou demi-pension.</p>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" style="text-align: left;">
+<p><span class="lettrine"><span style="background-color: #521b3a;">L</span></span>’enseignement est dispensé soit au sein de l’établissement lui-même par des enseignants spécialisés, soit en scolarisation à temps partiel dans des classes ordinaires ou spécialisées, d’établissements scolaires proches, avec l'appui des professionnels de l'ITEP.</p>
+<p>L'orientation vers un Institut Educatif, Thérapeutique et Pédagogique se fait par décision de la Commission des droits et de l'autonomie des personnes handicapées (C.D.A.P.H) du département de résidence de l’enfant.</p>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" class="tableau_fin_articles" style="text-align: left;"><img src="http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png" style="float: right;" /></td>
+</tr>
+</tbody>
+</table>
+&nbsp; <br />]]></description>
+			<author>brigitte.lalanne@llis.fr (Administrator)</author>
+			<category>I.T.E.P. Frot</category>
+			<pubDate>Tue, 14 Dec 2010 13:28:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

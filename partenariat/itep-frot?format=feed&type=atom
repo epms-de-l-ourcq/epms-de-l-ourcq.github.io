@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">I.T.E.P. Frot</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:23:39Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/partenariat/itep-frot?format=feed&amp;type=atom" />
+	<entry>
+		<title>Présentation de l'I.T.E.P. Frot</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/itep-frot/172-presentation-de-litep-frot"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/itep-frot/172-presentation-de-litep-frot</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center; border: 3px dotted #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Adresse administrative&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;15 RUE LOUIS BRAILLE&lt;br /&gt; 77100 MEAUX&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Tél : &lt;/strong&gt;01 64 34 52 54 &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Fax : &lt;/strong&gt;01 60 09 45 45&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Institut thérapeutique éducatif et pédagogique (I.T.E.P.)&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es Instituts Educatifs, Thérapeutiques et Pédagogiques (ITEP) sont des structures médico-sociales accueillant des enfants et adolescents qui présentent des difficultés psychologiques dont l’expression, notamment les troubles du comportement, perturbe gravement la socialisation et l’accès aux apprentissages.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques conjuguent au sein d’une même équipe institutionnelle, des interventions thérapeutiques, éducatives et pédagogiques.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques tentent ainsi d’inverser le processus handicapant dans lequel les enfants et adolescents aux potentialités intellectuelles et cognitives intactes, sont engagés.&lt;/p&gt;
+&lt;p&gt;L’accueil en Institut Educatif, Thérapeutique et Pédagogique se fait en internat ou demi-pension.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;’enseignement est dispensé soit au sein de l’établissement lui-même par des enseignants spécialisés, soit en scolarisation à temps partiel dans des classes ordinaires ou spécialisées, d’établissements scolaires proches, avec l'appui des professionnels de l'ITEP.&lt;/p&gt;
+&lt;p&gt;L'orientation vers un Institut Educatif, Thérapeutique et Pédagogique se fait par décision de la Commission des droits et de l'autonomie des personnes handicapées (C.D.A.P.H) du département de résidence de l’enfant.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center; border: 3px dotted #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Adresse administrative&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;15 RUE LOUIS BRAILLE&lt;br /&gt; 77100 MEAUX&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Tél : &lt;/strong&gt;01 64 34 52 54 &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Fax : &lt;/strong&gt;01 60 09 45 45&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Institut thérapeutique éducatif et pédagogique (I.T.E.P.)&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es Instituts Educatifs, Thérapeutiques et Pédagogiques (ITEP) sont des structures médico-sociales accueillant des enfants et adolescents qui présentent des difficultés psychologiques dont l’expression, notamment les troubles du comportement, perturbe gravement la socialisation et l’accès aux apprentissages.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques conjuguent au sein d’une même équipe institutionnelle, des interventions thérapeutiques, éducatives et pédagogiques.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques tentent ainsi d’inverser le processus handicapant dans lequel les enfants et adolescents aux potentialités intellectuelles et cognitives intactes, sont engagés.&lt;/p&gt;
+&lt;p&gt;L’accueil en Institut Educatif, Thérapeutique et Pédagogique se fait en internat ou demi-pension.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;’enseignement est dispensé soit au sein de l’établissement lui-même par des enseignants spécialisés, soit en scolarisation à temps partiel dans des classes ordinaires ou spécialisées, d’établissements scolaires proches, avec l'appui des professionnels de l'ITEP.&lt;/p&gt;
+&lt;p&gt;L'orientation vers un Institut Educatif, Thérapeutique et Pédagogique se fait par décision de la Commission des droits et de l'autonomie des personnes handicapées (C.D.A.P.H) du département de résidence de l’enfant.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+</feed>

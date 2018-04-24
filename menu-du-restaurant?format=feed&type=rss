@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Menu du Restaurant</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/menu-du-restaurant</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:19:14 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Menu du restaurant</title>
+			<link>http://www.epms-ourcq.fr/menu-du-restaurant/393-menu-du-restaurant</link>
+			<guid>http://www.epms-ourcq.fr/menu-du-restaurant/393-menu-du-restaurant</guid>
+			<description><![CDATA[<table class="tableau_articles" border="0">
+<tbody>
+<tr class="ligne_background">
+<td style="text-align: left; width: 326px; height: 527px;" valign="top">
+<div style="text-align: center;"></div>
+<table style="width: 330px; height: 564px; text-align: center;" class="border_img" border="0">
+<tbody style="text-align: left;">
+<tr style="text-align: left;">
+<td style="text-align: left;" colspan="2">
+<p> </p>
+<div style="text-align: center;"></div>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Le restaurant d'application est ouvert les</strong></span> :</p>
+<div style="text-align: center;"><span style="font-size: 12pt;"><em><strong>mardis, jeudis <br /></strong></em></span></div>
+<p style="text-align: center;">(hors vacances scolaires)</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong><span style="color: #800000;"><em><span style="font-size: 12pt;"><img alt="apostrophe" src="http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png" />&nbsp;Uniquement sur réservation</span></em></span></strong></p>
+</td>
+</tr>
+<tr style="text-align: left; background-color: #ffffff;">
+<td style="text-align: left;">
+<p> </p>
+<p>Par téléphone :</p>
+</td>
+<td style="text-align: left;">
+<p> </p>
+<p><span style="font-size: 10pt;"><strong>01.60.26.95.25</strong></span></p>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td style="text-align: left;">&nbsp;</td>
+<td style="text-align: left;">&nbsp;</td>
+</tr>
+<tr style="text-align: left; background-color: #ffffff;">
+<td style="text-align: left;">
+<p> </p>
+<p>Par mail :</p>
+</td>
+<td style="text-align: left;">
+<p><a target="_blank" title="Réservation Restaurant" href="http://www.epms-ourcq.fr/index.php?option=com_contact&amp;view=contact&amp;catid=71:pole-externat-medico-educatif&amp;id=11-m-hamel-m-hequet"><br /></a></p>
+<p><a target="_blank" title="Réservation Restaurant" href="http://www.epms-ourcq.fr/index.php?option=com_contact&amp;view=contact&amp;catid=71:pole-externat-medico-educatif&amp;id=11-m-hamel-m-hequet"><span style="font-size: 10pt;"><strong>Réservation par mail</strong></span></a><span style="font-size: 10pt;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><a target="_blank" title="Réservation Restaurant" href="http://www.epms-ourcq.fr/index.php?option=com_contact&amp;view=contact&amp;catid=71:pole-externat-medico-educatif&amp;id=11-m-hamel-m-hequet"><span style="font-size: 10pt;"><strong><span style="text-decoration: underline;"><br /></span></strong></span></a></p>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td style="text-align: left;" colspan="2">
+<p> </p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><strong><span style="color: #800000;">Bon appetit à tous !</span></strong></span></p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td style="text-align: left;" class="tableau_fin_articles"><img style="float: right;" src="http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png" /></td>
+</tr>
+</tbody>
+</table>
+&nbsp; <br />]]></description>
+			<author>brigitte.lalanne@llis.fr (Administrator)</author>
+			<category>menus_restaurant</category>
+			<pubDate>Sun, 13 Oct 2013 23:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

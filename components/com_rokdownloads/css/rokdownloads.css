@@ -1,0 +1,175 @@
+/* general stuff */
+
+#rokdownloads h3 {
+	font-size: 170%;
+	margin: 20px 0;
+}
+
+#rokdownloads h4  {
+	font-size: 150%;
+	text-decoration: none;
+	padding: 0;
+	margin: 0 0 15px 0;
+}
+
+#rokdownloads h3 a,
+#rokdownloads h4 a {
+	
+	font-weight: bold;
+}
+
+
+#rokdownloads .rd_thumb {
+	float: left;
+	width: 100px;
+}
+
+#rokdownloads .rd_thumb img,
+#rokdownloads .rd_thumb div {
+	margin: 0 20px;
+}
+
+#rokcdownloads .rd_thumb div {
+	display: block;
+	width: 48px;
+	height: 48px;
+	border: 1px solid #f00;
+}
+
+#rokdownloads .rd_details {
+	margin-left: 100px;
+}
+
+#rokdownloads .nothumb .rd_details {
+	margin-left: 15px;
+}
+
+#rokdownloads ul {
+	margin: 15px 0;
+	padding: 0;
+}
+
+#rokdownloads li {
+	list-style: none;
+	background: url(../images/gradient.png) 0 0 repeat-x;
+	padding: 15px 15px 35px 0;
+}
+
+#rokdownloads dl {
+	background: #eee;
+	padding: 5px;
+	margin: 0 -5px 10px -5px;
+}
+
+#rokdownloads dt {
+	float: left;
+	width: 100px;
+	color: #666;
+}
+
+#rokdownloads dd {
+	font-weight: bold;
+}
+
+#rokdownloads .rd_button {
+	float: left;
+	margin-right: 4px;
+	display: block;
+	width: 126px;
+	height: 27px;
+	text-align: center;
+	line-height: 27px;
+	font-weight: bold;
+	background: url(../images/button.png) 0 0 no-repeat;
+}
+
+/* folder specific stuff */
+
+#rd_folder {
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	border-bottom: 5px solid #eee;
+	overflow: hidden;
+}
+
+#rd_folder .rd_folder_default {
+	background: url(http://www.epms-ourcq.fr/components/com_rokdownloads/images/folder.png) 0 0 no-repeat;
+}
+
+/* subfolder & files stuff */
+
+#rd_subfolders {
+	border-bottom: 5px solid #eee;
+}
+
+
+/* file list stuff */
+
+#rokdownloads .rd_file,
+#rokdownloads #rd_file {
+	position: relative;
+}
+
+#rokdownloads .rd_status span {
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+	width: 83px;
+	height: 83px;
+}
+
+#rokdownloads .rd_status span span {
+	display: none;
+}
+
+#rokdownloads .rd_status span.rd_hot {
+	background: url(../images/hot.png) 100% 0 no-repeat;
+}
+
+#rokdownloads .rd_status span.rd_new {
+	background: url(../images/new.png) 100% 0 no-repeat;
+}
+
+#rokdownloads .rd_status span.rd_updated {
+	background: url(../images/updated.png) 100% 0 no-repeat;
+}
+
+#rokdownloads .rd_buttons {
+	overflow: hidden;
+}
+
+/* file specific stuff */
+
+#rd_file {
+	background: url(../images/gradient.png) 0 0 repeat-x;
+	padding: 15px 15px 35px 0;
+} 
+	
+	
+#rokdownloads .rd_pagination {
+	text-align: center;
+	margin: 20px 0 20px 0;
+	overflow: hidden;
+}
+
+#rokdownloads .rd_pages {
+	float: right;
+}
+
+#rokdownloads .rd_counter {
+	float: left;
+}
+
+/* breadcrumb stuff */
+
+#rokdownloads #rd_breadcrumbs {
+	padding: 10px 0;
+}
+
+
+#rokdownloads #rd_breadcrumbs span {
+	font-weight: bold;
+	color: #999;
+}
+

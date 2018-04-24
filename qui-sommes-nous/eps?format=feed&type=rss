@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>EPS</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/qui-sommes-nous/eps</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:20:02 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>En construction</title>
+			<link>http://www.epms-ourcq.fr/qui-sommes-nous/eps/551-building</link>
+			<guid>http://www.epms-ourcq.fr/qui-sommes-nous/eps/551-building</guid>
+			<description><![CDATA[<p>Cette partie du site Internet est en cours de mise à jour de contenu afin de rester au plus prêt de la réalité de l'EPMS et de ses besoins.</p>
+<p>Le but est d'apporter à nos visiteurs une visite simplifiée et plus intuitive.</p>
+<p>Cordialement, vôtre webmaster.</p>]]></description>
+			<author>brigitte.lalanne@llis.fr (Administrator)</author>
+			<category>EPS</category>
+			<pubDate>Fri, 24 Feb 2017 16:10:13 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,6 @@
+tr.se_row_tooltip_title{vertical-align:middle;font-size:1em !important;}
+.tooltip_container{-width:0px;-collapse:collapse;width:99%;}
+.tooltip_info{padding:5px;margin-top:0px;width:auto;}
+.tooltip_line{display:block;vertical-align:middle;text-align:left;}
+.tooltip_title{font-weight:bolder;}
+.tooltip_image{border:none !important;padding:5px;vertical-align:middle;}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ressources humaines</title>
+		<description>E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</description>
+		<link>http://www.epms-ourcq.fr/administration/ressources-humaines</link>
+		<lastBuildDate>Tue, 24 Apr 2018 08:23:02 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Concours sur titres</title>
+			<link>http://www.epms-ourcq.fr/administration/ressources-humaines/389-concours-sur-titres2016</link>
+			<guid>http://www.epms-ourcq.fr/administration/ressources-humaines/389-concours-sur-titres2016</guid>
+			<description><![CDATA[<table class="tableau_articles" border="0">
+<tbody style="text-align: left;">
+<tr class="ligne_background" style="text-align: left;">
+<td class="tableau_cellule_img" style="text-align: left;" colspan="2">
+<p><span class="lettrine"><span style="background-color: #669933;">C</span></span><strong>oncours sur titres pour le recrutement de :</strong></p>
+<p><br />3 <strong>aides médico-psychologiques</strong> (les agents intéressés peuvent concourir jusqu’au <strong>18/02/2016</strong>)</p>
+<p>3 <strong>moniteurs – éducateurs </strong>(les agents intéressés peuvent concourir jusqu’au <strong>18/01/2016</strong>)</p>
+<p>1 <strong>psychomotricien</strong> (les agents intéressés peuvent concourir jusqu’au <strong>18/02/2016</strong>)</p>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td colspan="2" class="tableau_fin_articles"><img src="http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png" style="float: right;" /></td>
+</tr>
+</tbody>
+</table>
+&nbsp;<br />
+<div style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;" id="_mcePaste">
+<p class="MsoNormal">Concours sur titres pour le recrutement de&nbsp;:</p>
+<p class="MsoNormal">3 aides médico-psychologiques</p>
+<p class="MsoNormal">3 moniteurs – éducateurs</p>
+<p class="MsoNormal">1 psychomotricien</p>
+</div>]]></description>
+			<author>brigitte.lalanne@llis.fr (Administrator)</author>
+			<category>Ressources humaines</category>
+			<pubDate>Tue, 22 Dec 2015 23:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

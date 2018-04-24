@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Ressources humaines</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:23:02Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/administration/ressources-humaines?format=feed&amp;type=atom" />
+	<entry>
+		<title>Concours sur titres</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/administration/ressources-humaines/389-concours-sur-titres2016"/>
+		<published>2015-12-22T23:00:00Z</published>
+		<updated>2015-12-22T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/administration/ressources-humaines/389-concours-sur-titres2016</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #669933;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;oncours sur titres pour le recrutement de :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;3 &lt;strong&gt;aides médico-psychologiques&lt;/strong&gt; (les agents intéressés peuvent concourir jusqu’au &lt;strong&gt;18/02/2016&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;3 &lt;strong&gt;moniteurs – éducateurs &lt;/strong&gt;(les agents intéressés peuvent concourir jusqu’au &lt;strong&gt;18/01/2016&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;1 &lt;strong&gt;psychomotricien&lt;/strong&gt; (les agents intéressés peuvent concourir jusqu’au &lt;strong&gt;18/02/2016&lt;/strong&gt;)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;div style=&quot;position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;&quot; id=&quot;_mcePaste&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;Concours sur titres pour le recrutement de&amp;nbsp;:&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;3 aides médico-psychologiques&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;3 moniteurs – éducateurs&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;1 psychomotricien&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #669933;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;oncours sur titres pour le recrutement de :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;3 &lt;strong&gt;aides médico-psychologiques&lt;/strong&gt; (les agents intéressés peuvent concourir jusqu’au &lt;strong&gt;18/02/2016&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;3 &lt;strong&gt;moniteurs – éducateurs &lt;/strong&gt;(les agents intéressés peuvent concourir jusqu’au &lt;strong&gt;18/01/2016&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;1 &lt;strong&gt;psychomotricien&lt;/strong&gt; (les agents intéressés peuvent concourir jusqu’au &lt;strong&gt;18/02/2016&lt;/strong&gt;)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;div style=&quot;position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;&quot; id=&quot;_mcePaste&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;Concours sur titres pour le recrutement de&amp;nbsp;:&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;3 aides médico-psychologiques&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;3 moniteurs – éducateurs&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;1 psychomotricien&lt;/p&gt;
+&lt;/div&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">S.A.J.M.</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:21:50Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/accompagnement/sajm?format=feed&amp;type=atom" />
+	<entry>
+		<title>Eclat Art</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/466-eclatart"/>
+		<published>2015-06-29T23:00:00Z</published>
+		<updated>2015-06-29T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/466-eclatart</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img height=&quot;345&quot; width=&quot;460&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SAJM/eclat_art/p1010230miniz.jpg&quot; alt=&quot;p1010230miniz&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;P&lt;/span&gt;&lt;/span&gt;rojet intergénérationnel&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;ans le cadre le cadre du festival «&amp;nbsp;Eclat Art&amp;nbsp;»  ainsi qu’à la Maison de  retraite des Korians à Meaux , le service de  l’UAF a réalisé des  photos qui ont été exposées au Centre social Louise  Michel&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img height=&quot;345&quot; width=&quot;460&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SAJM/eclat_art/p1010230miniz.jpg&quot; alt=&quot;p1010230miniz&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;P&lt;/span&gt;&lt;/span&gt;rojet intergénérationnel&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;ans le cadre le cadre du festival «&amp;nbsp;Eclat Art&amp;nbsp;»  ainsi qu’à la Maison de  retraite des Korians à Meaux , le service de  l’UAF a réalisé des  photos qui ont été exposées au Centre social Louise  Michel&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Jardin des plantes</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/405-jardin-des-plantes"/>
+		<published>2013-05-27T23:00:00Z</published>
+		<updated>2013-05-27T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/405-jardin-des-plantes</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin1.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;acances de Pâques&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e 02 mai 2013, nous sommes partis sur Paris, au jardin des plantes.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin2.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Nous avons &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;d’abord visité &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;la ménagerie&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin3.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;P&lt;/span&gt;&lt;/span&gt;uis nous avons mangé et visité la grande galerie de l’évolution ainsi qu’une exposition sur les dinosaures.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin4.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Visite &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;du &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Jardin des plantes&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin5.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;tableau_fin_articles&quot;&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin1.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;acances de Pâques&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e 02 mai 2013, nous sommes partis sur Paris, au jardin des plantes.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin2.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Nous avons &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;d’abord visité &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;la ménagerie&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin3.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;P&lt;/span&gt;&lt;/span&gt;uis nous avons mangé et visité la grande galerie de l’évolution ainsi qu’une exposition sur les dinosaures.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin4.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Visite &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;du &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Jardin des plantes&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/jardin_plantes/jardin5.jpg&quot; alt=&quot;Jardin des plantes&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;tableau_fin_articles&quot;&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Forum &quot;santé-Jeunesse&quot;</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/406-forum-qsante-jeunesseq"/>
+		<published>2013-05-27T23:00:00Z</published>
+		<updated>2013-05-27T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/406-forum-qsante-jeunesseq</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/forum_sante_jeunesse/forum1.jpg&quot; alt=&quot;Forum &amp;quot;Santé Jeunesse&amp;quot;&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Forum&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt; «&amp;nbsp;Santé-Jeunesse&amp;nbsp;»&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/forum_sante_jeunesse/forum2.jpg&quot; alt=&quot;Forum &amp;quot;Santé Jeunesse&amp;quot;&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;endredi 26 avril 2013, nous sommes allés à la MDS de Lieusaint participer à un&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;forum « santé-Jeunesse » organisé par le Conseil Général.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/forum_sante_jeunesse/forum1.jpg&quot; alt=&quot;Forum &amp;quot;Santé Jeunesse&amp;quot;&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Forum&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt; «&amp;nbsp;Santé-Jeunesse&amp;nbsp;»&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/forum_sante_jeunesse/forum2.jpg&quot; alt=&quot;Forum &amp;quot;Santé Jeunesse&amp;quot;&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;endredi 26 avril 2013, nous sommes allés à la MDS de Lieusaint participer à un&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;forum « santé-Jeunesse » organisé par le Conseil Général.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Musée du Louvres</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/407-musee-du-louvres"/>
+		<published>2013-05-27T23:00:00Z</published>
+		<updated>2013-05-27T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/407-musee-du-louvres</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres2.jpg&quot; alt=&quot;Musée du Louvres&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Musée &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;du &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Louvres&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres3.jpg&quot; alt=&quot;Musée du Louvres&quot; /&gt;L&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;undi 08 avril 2013, nous sommes allés au Musée du Louvres et ensuite nous avons mangé au Jardin des Tuileries.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres4.jpg&quot; alt=&quot;louvres4&quot; /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Jardin des Tuileries&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres1.jpg&quot; alt=&quot;Visite du Louvres&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres2.jpg&quot; alt=&quot;Musée du Louvres&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Musée &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;du &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Louvres&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres3.jpg&quot; alt=&quot;Musée du Louvres&quot; /&gt;L&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;undi 08 avril 2013, nous sommes allés au Musée du Louvres et ensuite nous avons mangé au Jardin des Tuileries.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres4.jpg&quot; alt=&quot;louvres4&quot; /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Jardin des Tuileries&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/louvres/louvres1.jpg&quot; alt=&quot;Visite du Louvres&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Visite du château de Fontainebleau</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/403-visite-du-chateau-de-fontainebleau"/>
+		<published>2013-05-22T23:00:00Z</published>
+		<updated>2013-05-22T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/403-visite-du-chateau-de-fontainebleau</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/fontainebleau/fontainebleau1.jpg&quot; alt=&quot;Château de Fontainebleau&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e 04 mars 2013, nous sommes partis au &lt;strong&gt;château de Fontainebleau&lt;/strong&gt;, dans le cadre des vacances scolaires.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/fontainebleau/fontainebleau_groupe10.jpg&quot; alt=&quot;Groupe UAF&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Vacances &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;de&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt; février&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;2013&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/fontainebleau/fontainebleau_groupe20.jpg&quot; alt=&quot;Groupe UAF&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img width=&quot;33&quot; style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/fontainebleau/fontainebleau1.jpg&quot; alt=&quot;Château de Fontainebleau&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;e 04 mars 2013, nous sommes partis au &lt;strong&gt;château de Fontainebleau&lt;/strong&gt;, dans le cadre des vacances scolaires.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;3&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/fontainebleau/fontainebleau_groupe10.jpg&quot; alt=&quot;Groupe UAF&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;Vacances &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;de&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt; février&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;&lt;span style=&quot;font-family: impact, chicago;&quot;&gt;2013&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/fontainebleau/fontainebleau_groupe20.jpg&quot; alt=&quot;Groupe UAF&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img width=&quot;33&quot; style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Activité patinage</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/404-activite-patinage"/>
+		<published>2013-05-22T23:00:00Z</published>
+		<updated>2013-05-22T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/404-activite-patinage</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage1.jpg&quot; alt=&quot;Patinage à la base de Torcy&quot; /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous avons pû profiter d’une activité patinage &lt;br /&gt; à la base de loisirs de Torcy.&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage2.jpg&quot; alt=&quot;Nous avons pû profiter d’une activité patinage à la base de loisirs de Torcy.&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Activité patinage&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage3.jpg&quot; alt=&quot;Nous avons pû profiter d’une activité patinage à la base de loisirs de Torcy.&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage4.jpg&quot; alt=&quot;Patinage à Torcy&quot; /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;'était une première initiation pour les jeunes&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;tableau_fin_articles&quot;&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage1.jpg&quot; alt=&quot;Patinage à la base de Torcy&quot; /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous avons pû profiter d’une activité patinage &lt;br /&gt; à la base de loisirs de Torcy.&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage2.jpg&quot; alt=&quot;Nous avons pû profiter d’une activité patinage à la base de loisirs de Torcy.&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;tableau_infocentre&quot;&gt;
+&lt;p&gt;&lt;span&gt;&lt;span style=&quot;color: #0099cc;&quot;&gt;Activité patinage&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage3.jpg&quot; alt=&quot;Nous avons pû profiter d’une activité patinage à la base de loisirs de Torcy.&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;268&quot; height=&quot;142&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SASF/UAF/patinage/patinage4.jpg&quot; alt=&quot;Patinage à Torcy&quot; /&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;'était une première initiation pour les jeunes&lt;/p&gt;
+&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;tableau_fin_articles&quot;&gt;
+&lt;td colspan=&quot;3&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>L'U.A.F. participe au forum jeunesse handicap</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/380-luaf-participe-au-forum-jeunesse-handicap"/>
+		<published>2012-11-06T23:00:00Z</published>
+		<updated>2012-11-06T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/380-luaf-participe-au-forum-jeunesse-handicap</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;U&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;NITE D'ACCOMPAGNEMENT PAR LA FORMATION&lt;/strong&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p&gt;Le 27 septembre 2012, un groupe de 9 jeunes de l’U.A.F. est parti à Paris, accompagné de Monsieur LALIGUE Philippe (chef de service S.A.J.M.) et Madame URVOAS Nadine (éducatrice spécialisée à l’U.A.F.), afin de participer au forum «&amp;nbsp;jeunesse – handicap – entreprise&amp;nbsp;» organisé par le C.I.D.J. (centre d’information et de documentation jeunesse).&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/menus_gauches/unite_formation/forum_handicap/DSCN0322.jpg&quot; alt=&quot;Trajet RER&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous nous sommes donnés rendez-vous à 09h00 la gare de Meaux d’où nous sommes partis avec notre pique-nique dans nos sacs-à-dos.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/menus_gauches/unite_formation/forum_handicap/DSCN0338.jpg&quot; alt=&quot;Trajet metro&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;rrivés à la gare de l’Est, nous avons pris le métro, pour nous rendre au C.I.D.J. qui se trouve près de la Tour Eiffel.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/menus_gauches/unite_formation/forum_handicap/DSCN0371.jpg&quot; alt=&quot;Tour Eiffel&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous avons alors pique-niqué dans un sous-bois abrité de la pluie, juste en face de la Tour Eiffel.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;près avoir repris des forces, nous nous sommes dirigés vers le C.I.D.J. où nous avons été accueillis par des conseillers formés à la question du handicap.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;U&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;NITE D'ACCOMPAGNEMENT PAR LA FORMATION&lt;/strong&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr&gt;
+&lt;td colspan=&quot;2&quot;&gt;
+&lt;p&gt;Le 27 septembre 2012, un groupe de 9 jeunes de l’U.A.F. est parti à Paris, accompagné de Monsieur LALIGUE Philippe (chef de service S.A.J.M.) et Madame URVOAS Nadine (éducatrice spécialisée à l’U.A.F.), afin de participer au forum «&amp;nbsp;jeunesse – handicap – entreprise&amp;nbsp;» organisé par le C.I.D.J. (centre d’information et de documentation jeunesse).&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/menus_gauches/unite_formation/forum_handicap/DSCN0322.jpg&quot; alt=&quot;Trajet RER&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous nous sommes donnés rendez-vous à 09h00 la gare de Meaux d’où nous sommes partis avec notre pique-nique dans nos sacs-à-dos.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/menus_gauches/unite_formation/forum_handicap/DSCN0338.jpg&quot; alt=&quot;Trajet metro&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;rrivés à la gare de l’Est, nous avons pris le métro, pour nous rendre au C.I.D.J. qui se trouve près de la Tour Eiffel.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/menus_gauches/unite_formation/forum_handicap/DSCN0371.jpg&quot; alt=&quot;Tour Eiffel&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;ous avons alors pique-niqué dans un sous-bois abrité de la pluie, juste en face de la Tour Eiffel.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;A&lt;/span&gt;&lt;/span&gt;près avoir repris des forces, nous nous sommes dirigés vers le C.I.D.J. où nous avons été accueillis par des conseillers formés à la question du handicap.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Inauguration du 104. Attention, peinture fraîche !</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/338-inauguration-du-104-attention-peinture-fraiche-"/>
+		<published>2012-01-25T23:00:00Z</published>
+		<updated>2012-01-25T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/338-inauguration-du-104-attention-peinture-fraiche-</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SAJM/inauguration_104/inauguration_104.jpg&quot; alt=&quot;Inauguration du 104 à Meaux&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;I&lt;/span&gt;&lt;/span&gt;nauguration réussie du 104. Pas le 104 de la rue d'Aubervilliers&amp;nbsp; dans le 19e arr.de Paris réputé pour sa vocation artistique, mais&amp;nbsp; notre 104, celui de la rue du faubourg Saint Nicolas (d’ailleurs, ne pourrait on pas réclamer quelques droits d’auteur pour une appellation bien plus ancienne)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;’IMED utilise le 104 depuis 1998. C’est d’abord le SESSAD qui a occupé les lieux pendant deux ans, puis le service hébergement (8 places), pour des adolescents, puis le centre d’accueil de jour et enfin, aujourd’hui l’unité d’accompagnement du service d’accueil jeunes majeurs, sous la responsabilité de Malika HADDOUCHE, responsable du pôle accompagnement.&lt;/p&gt;
+&lt;p&gt;Il s’agit de jeunes adultes qui quittent l’IMED à 18 ans pour préparer une orientation en foyer occupationnel ou maison d‘accueil spécialisée avant leurs 20 ans.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SAJM/inauguration_104/inauguration_104.jpg&quot; alt=&quot;Inauguration du 104 à Meaux&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;I&lt;/span&gt;&lt;/span&gt;nauguration réussie du 104. Pas le 104 de la rue d'Aubervilliers&amp;nbsp; dans le 19e arr.de Paris réputé pour sa vocation artistique, mais&amp;nbsp; notre 104, celui de la rue du faubourg Saint Nicolas (d’ailleurs, ne pourrait on pas réclamer quelques droits d’auteur pour une appellation bien plus ancienne)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;’IMED utilise le 104 depuis 1998. C’est d’abord le SESSAD qui a occupé les lieux pendant deux ans, puis le service hébergement (8 places), pour des adolescents, puis le centre d’accueil de jour et enfin, aujourd’hui l’unité d’accompagnement du service d’accueil jeunes majeurs, sous la responsabilité de Malika HADDOUCHE, responsable du pôle accompagnement.&lt;/p&gt;
+&lt;p&gt;Il s’agit de jeunes adultes qui quittent l’IMED à 18 ans pour préparer une orientation en foyer occupationnel ou maison d‘accueil spécialisée avant leurs 20 ans.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Livret d'informations SAJM 2011-2012</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/295-livret-dinformations-2011-2012"/>
+		<published>2011-08-30T23:00:00Z</published>
+		<updated>2011-08-30T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/295-livret-dinformations-2011-2012</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SAJM/logo_sajm.jpg&quot; alt=&quot;S.A.J.M.&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;euillez trouver dans ce fascicule les informations relatives à la prise en charge de votre enfant dans l’établissement pour l’année 2011-2012.&lt;/p&gt;
+&lt;p&gt;Nous avons le plaisir de vous informer que la rentrée 2011-2012 est fixée au :&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;strong&gt;LUNDI 05 SEPTEMBRE 2011 à partir de 09h00&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; alt=&quot;Apostrophe&quot; /&gt;&lt;/strong&gt;&lt;strong&gt; [rokdownload menuitem=&quot;153&quot; downloaditem=&quot;97&quot; direct_download=&quot;true&quot;]Livret d'informations 2011-2012[/rokdownload]&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;span style=&quot;text-decoration: underline;&quot;&gt; &lt;/span&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/accompagnement/SAJM/logo_sajm.jpg&quot; alt=&quot;S.A.J.M.&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;euillez trouver dans ce fascicule les informations relatives à la prise en charge de votre enfant dans l’établissement pour l’année 2011-2012.&lt;/p&gt;
+&lt;p&gt;Nous avons le plaisir de vous informer que la rentrée 2011-2012 est fixée au :&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;strong&gt;LUNDI 05 SEPTEMBRE 2011 à partir de 09h00&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; alt=&quot;Apostrophe&quot; /&gt;&lt;/strong&gt;&lt;strong&gt; [rokdownload menuitem=&quot;153&quot; downloaditem=&quot;97&quot; direct_download=&quot;true&quot;]Livret d'informations 2011-2012[/rokdownload]&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: right;&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;span style=&quot;text-decoration: underline;&quot;&gt; &lt;/span&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>Le repas des partenaires </title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/accompagnement/sajm/281-le-repas-des-partenaires-"/>
+		<published>2011-07-04T23:00:00Z</published>
+		<updated>2011-07-04T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/accompagnement/sajm/281-le-repas-des-partenaires-</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite_professionnelle/restaurant_application/repas_partenaires2011/repas_partenaires2011.jpg&quot; alt=&quot;Repas des partenaires 2011&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;ardi 28 juin, les entreprises et les partenaires du secteur medico social avaient répondu présents à l'invitation de M HAMEL et HECQUET, responsables de formation de l'IMED.&lt;/p&gt;
+&lt;p&gt;Le dernier buffet de l'année scolaire, servi dans la salle du restaurant d'application, était une manière de remercier nos partenaires pour l'accueil qu'ils avaient réservé à nos jeunes dans le cadre de stages.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;omme d'habitude, les jeunes apprentis du restaurant d'application avaient donné leurs dernières forces pour nous présenter un buffet aux couleurs magnifiques.&lt;/p&gt;
+Au fil de son discours non  dénué d'humour, M Bouverat fit l'éloge de la  collaboration avec les  entreprises et les ESAT de la région qui  reçoivent nos stagiaires tout  au long de l'année.
+&lt;p&gt;Il souligna le  remarquable travail des  éducatrices du service de stage et remercia  chacun de contribuer à  l'intégration professionnelle des jeunes  stagiaires.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/Externat/unite_professionnelle/restaurant_application/repas_partenaires2011/repas_partenaires2011.jpg&quot; alt=&quot;Repas des partenaires 2011&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;ardi 28 juin, les entreprises et les partenaires du secteur medico social avaient répondu présents à l'invitation de M HAMEL et HECQUET, responsables de formation de l'IMED.&lt;/p&gt;
+&lt;p&gt;Le dernier buffet de l'année scolaire, servi dans la salle du restaurant d'application, était une manière de remercier nos partenaires pour l'accueil qu'ils avaient réservé à nos jeunes dans le cadre de stages.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #0099cc;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;omme d'habitude, les jeunes apprentis du restaurant d'application avaient donné leurs dernières forces pour nous présenter un buffet aux couleurs magnifiques.&lt;/p&gt;
+Au fil de son discours non  dénué d'humour, M Bouverat fit l'éloge de la  collaboration avec les  entreprises et les ESAT de la région qui  reçoivent nos stagiaires tout  au long de l'année.
+&lt;p&gt;Il souligna le  remarquable travail des  éducatrices du service de stage et remercia  chacun de contribuer à  l'intégration professionnelle des jeunes  stagiaires.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">EPMS de l'Ourcq</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:28:01Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/component/content/section/10?format=feed&amp;type=atom" />
+	<entry>
+		<title>E.P.M.S. Fondation Hardy</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/epms/420-epms-fondation-hardy"/>
+		<published>2013-12-05T23:00:00Z</published>
+		<updated>2013-12-05T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/epms/420-epms-fondation-hardy</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;170&quot; height=&quot;170&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/f_hardy.jpg&quot; alt=&quot;E.P.M.S. fondation Hardy&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es différentes structures, au travers de l’établissement public médico-social, s’attachent à accompagner toutes personnes en situation de handicap, dans son cheminement et la mise en œuvre de son projet personnel. La personne accueillie est le centre de l’action.&lt;/p&gt;
+&lt;p&gt;C’est pourquoi l’établissement avec cœur et enthousiasme, met à la disposition de tous, ses compétences et ses valeurs afin de favoriser et de valoriser le projet de vie de ceux qui accordent leur confiance à L’EPMS.&lt;br /&gt;Selon la réglementation en vigueur, chaque jeune, dans sa singularité, son identité et son particularisme présente des difficultés spécifiques mais aussi des capacités particulières, auxquelles nous devons répondre par des prises en charge individuelles.&lt;/p&gt;
+&lt;p&gt;Aussi, chaque jeune bénéficie dans la palette des prises en charge et des modes d’accompagnement possibles, d’un planning, d’un parcours, d’une mobilisation qui lui sont propres.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://www.epms-hardy.com&quot; title=&quot;E.P.M.S. fondation Hardy&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;170&quot; height=&quot;170&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/f_hardy.jpg&quot; alt=&quot;E.P.M.S. fondation Hardy&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es différentes structures, au travers de l’établissement public médico-social, s’attachent à accompagner toutes personnes en situation de handicap, dans son cheminement et la mise en œuvre de son projet personnel. La personne accueillie est le centre de l’action.&lt;/p&gt;
+&lt;p&gt;C’est pourquoi l’établissement avec cœur et enthousiasme, met à la disposition de tous, ses compétences et ses valeurs afin de favoriser et de valoriser le projet de vie de ceux qui accordent leur confiance à L’EPMS.&lt;br /&gt;Selon la réglementation en vigueur, chaque jeune, dans sa singularité, son identité et son particularisme présente des difficultés spécifiques mais aussi des capacités particulières, auxquelles nous devons répondre par des prises en charge individuelles.&lt;/p&gt;
+&lt;p&gt;Aussi, chaque jeune bénéficie dans la palette des prises en charge et des modes d’accompagnement possibles, d’un planning, d’un parcours, d’une mobilisation qui lui sont propres.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://www.epms-hardy.com&quot; title=&quot;E.P.M.S. fondation Hardy&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>LA PALETTE CLAYOISE</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/associations-culturelles/395-la-palette-clayoise"/>
+		<published>2013-05-13T23:00:00Z</published>
+		<updated>2013-05-13T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/associations-culturelles/395-la-palette-clayoise</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left; background-color: #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt; PEINTURE&lt;img width=&quot;383&quot; height=&quot;541&quot; alt=&quot;vernissage_ville_architecture&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/palette_clayoise/vernissage_ville_architecture.jpg&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td valign=&quot;top&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;LA PALETTE CLAYOISE&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;img width=&quot;128&quot; height=&quot;109&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/palette_clayoise/logo_pclayoise.png&quot; alt=&quot;Palette Clayoise&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Siège social&lt;/span&gt;&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Allée André Benoist&lt;br /&gt; 77410 Claye-Souilly&lt;/p&gt;
+&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Adresse administrative&lt;/span&gt;&lt;/strong&gt; :                                                                                                                            
+&lt;ul&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Association La Palette Clayoise&lt;br /&gt; Chez Melle THOMASSE Amélie&lt;br /&gt; 30 rue des Bouvreuils&lt;br /&gt; 77410 Claye-Souilly&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site internet&lt;/strong&gt; : &lt;a target=&quot;_blank&quot; title=&quot;La palette Clayoise&quot; href=&quot;http://lapaletteclayoise.asso-web.com/23+presentation.html&quot;&gt;lapaletteclayoise.asso-web.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt; &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=397&quot; title=&quot;Le 6ème salon d'hiver&quot;&gt;Voir&amp;nbsp; l'évènement &amp;nbsp;du &quot;6ème salon d'hiver&quot;&lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;Apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt; &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=370&quot; title=&quot;Exposition 9ème édition de l'I.M.E.D. en peinture&quot;&gt;Voir&amp;nbsp; l'évènement&amp;nbsp; &quot;9ème édition de l'I.M.E.D. en peinture&lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;Apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt;&amp;nbsp;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt; Voir&amp;nbsp; l'évènement &amp;nbsp;du &quot;5ème salon d'hiver&quot;&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;Venez découvrir des œuvres d’artistes franciliens professionnels et amateurs, la production annuelle de l’association la palette Clayoise et les propositions picturales des élèves du CAJ de Claye-Souilly.&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot;width: 672px; height: 363px;&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;middle&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;378&quot; height=&quot;310&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/palette_clayoise/Plan2_EPMS.jpg&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;ligne_background&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;N’hésitez pas à nous rejoindre à&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;L’EPMS de l’Ourcq&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;allée André Benoist &lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;77410 Claye-Souilly&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left; background-color: #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt; PEINTURE&lt;img width=&quot;383&quot; height=&quot;541&quot; alt=&quot;vernissage_ville_architecture&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/palette_clayoise/vernissage_ville_architecture.jpg&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td valign=&quot;top&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;LA PALETTE CLAYOISE&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;img width=&quot;128&quot; height=&quot;109&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/palette_clayoise/logo_pclayoise.png&quot; alt=&quot;Palette Clayoise&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Siège social&lt;/span&gt;&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Allée André Benoist&lt;br /&gt; 77410 Claye-Souilly&lt;/p&gt;
+&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Adresse administrative&lt;/span&gt;&lt;/strong&gt; :                                                                                                                            
+&lt;ul&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Association La Palette Clayoise&lt;br /&gt; Chez Melle THOMASSE Amélie&lt;br /&gt; 30 rue des Bouvreuils&lt;br /&gt; 77410 Claye-Souilly&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site internet&lt;/strong&gt; : &lt;a target=&quot;_blank&quot; title=&quot;La palette Clayoise&quot; href=&quot;http://lapaletteclayoise.asso-web.com/23+presentation.html&quot;&gt;lapaletteclayoise.asso-web.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt; &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot; href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=397&quot; title=&quot;Le 6ème salon d'hiver&quot;&gt;Voir&amp;nbsp; l'évènement &amp;nbsp;du &quot;6ème salon d'hiver&quot;&lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt; &lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;Apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt; &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt; &lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=370&quot; title=&quot;Exposition 9ème édition de l'I.M.E.D. en peinture&quot;&gt;Voir&amp;nbsp; l'évènement&amp;nbsp; &quot;9ème édition de l'I.M.E.D. en peinture&lt;/a&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;img alt=&quot;Apostrophe&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/apostrophe.png&quot; /&gt;&amp;nbsp;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.epms-ourcq.fr/index.php?option=com_content&amp;amp;view=article&amp;amp;id=342&quot; title=&quot;Le 5ème salon d'hiver à l'E.P.M.S de Claye-Souilly&quot;&gt; Voir&amp;nbsp; l'évènement &amp;nbsp;du &quot;5ème salon d'hiver&quot;&amp;nbsp;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;Venez découvrir des œuvres d’artistes franciliens professionnels et amateurs, la production annuelle de l’association la palette Clayoise et les propositions picturales des élèves du CAJ de Claye-Souilly.&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot;width: 672px; height: 363px;&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;middle&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;img width=&quot;378&quot; height=&quot;310&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/palette_clayoise/Plan2_EPMS.jpg&quot; /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td class=&quot;ligne_background&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;N’hésitez pas à nous rejoindre à&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;L’EPMS de l’Ourcq&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;allée André Benoist &lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;77410 Claye-Souilly&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>EPMS du PROVINOIS</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/356-lepms-du-provinois-un-exemple-de-partenariat-original-avec-limed-"/>
+		<published>2012-03-05T23:00:00Z</published>
+		<updated>2012-03-05T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/356-lepms-du-provinois-un-exemple-de-partenariat-original-avec-limed-</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;h2&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;strong&gt;L’EPMS du PROVINOIS, un exemple de partenariat original &amp;nbsp; avec l’IMED&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p&gt;&lt;img alt=&quot;Bureau réalisé par l'E.P.M.S&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/articles/partenariat_epms_provinois/bureau.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Un bureau réalisé par l'E.P.M.S.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a culture, c’est comme la confiture, moins on en a et plus on l’étale. A l’EPMS du Provinois, il s’agit avant tout d’étaler la peinture. Pour parvenir à ses fins, Didier BEVERT, moniteur d’atelier, mène son équipe avec un flegme que rien ne semble pouvoir perturber. Attentif au moindre coup de pinceau, exigeant sur la qualité des rechampis, il conduit son atelier en privilégiant avant tout une finition irréprochable. Et ça se voit !&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;’ailleurs, Gilles BOUVERAT, le directeur de l’IMED ne s’y est pas  trompé, qui a signé avec Marine AUGIER, directrice de l’ESAT, un contrat  d’un an avec l’EPMS. Charge à M BEVERT et à son équipe de&amp;nbsp; redonner des  couleurs à l’IMED.&lt;/p&gt;
+&lt;p&gt;Marine AUGIER, directrice de l’ESAT, œuvre en permanence pour faire de son ESAT une structure innovante et performante. Avec toute l’énergie que lui confère sa jeunesse, elle se bat avec conviction pour que son équipe soit reconnue. Le résultat est au rendez-vous. Les contrats sont signés, et les factures payées rubis sur ongle.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary>
+		<content type="html">&lt;h2&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;strong&gt;L’EPMS du PROVINOIS, un exemple de partenariat original &amp;nbsp; avec l’IMED&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p&gt;&lt;img alt=&quot;Bureau réalisé par l'E.P.M.S&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/articles/partenariat_epms_provinois/bureau.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Un bureau réalisé par l'E.P.M.S.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a culture, c’est comme la confiture, moins on en a et plus on l’étale. A l’EPMS du Provinois, il s’agit avant tout d’étaler la peinture. Pour parvenir à ses fins, Didier BEVERT, moniteur d’atelier, mène son équipe avec un flegme que rien ne semble pouvoir perturber. Attentif au moindre coup de pinceau, exigeant sur la qualité des rechampis, il conduit son atelier en privilégiant avant tout une finition irréprochable. Et ça se voit !&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;’ailleurs, Gilles BOUVERAT, le directeur de l’IMED ne s’y est pas  trompé, qui a signé avec Marine AUGIER, directrice de l’ESAT, un contrat  d’un an avec l’EPMS. Charge à M BEVERT et à son équipe de&amp;nbsp; redonner des  couleurs à l’IMED.&lt;/p&gt;
+&lt;p&gt;Marine AUGIER, directrice de l’ESAT, œuvre en permanence pour faire de son ESAT une structure innovante et performante. Avec toute l’énergie que lui confère sa jeunesse, elle se bat avec conviction pour que son équipe soit reconnue. Le résultat est au rendez-vous. Les contrats sont signés, et les factures payées rubis sur ongle.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+	</entry>
+	<entry>
+		<title>FESTIVAL DE MUSIQUE</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/associations-culturelles/314-festival-de-musique-de-claye-souilly"/>
+		<published>2011-10-12T23:00:00Z</published>
+		<updated>2011-10-12T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/associations-culturelles/314-festival-de-musique-de-claye-souilly</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;h2&gt;&lt;span style=&quot;color: #72261c;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;FESTIVAL DE MUSIQUE DE CLAYE-SOUILLY&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: center; background-color: #521b3a;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;MUSIQUE&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;FESTIVAL DE MUSIQUE DE CLAYE-SOUILLY&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Choeur Odyssées&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site internet : &lt;a href=&quot;http://www.festivalclaye.fr&quot; title=&quot;Visiter le site du Festival de musique de Claye-Souilly&quot; target=&quot;_blank&quot;&gt;http://www.festivalclaye.fr&lt;/a&gt;&lt;a href=&quot;http://www.joyfleurscreations.fr&quot; title=&quot;Joy Fleurs Creations&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;email : &lt;/strong&gt;&lt;a href=&quot;mailto:mh.caspar@wanadoo.fr&quot; title=&quot;Ecrire à Festival de musique de Claye-Souilly&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;mh.caspar@wanadoo.fr&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt; &lt;br /&gt;
+&lt;div id=&quot;_mcePaste&quot; style=&quot;position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;Festival de Musique&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p lang=&quot;fr-FR&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;de Claye-Souilly&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;h2&gt;&lt;span style=&quot;color: #72261c;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;FESTIVAL DE MUSIQUE DE CLAYE-SOUILLY&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: center; background-color: #521b3a;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;MUSIQUE&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;FESTIVAL DE MUSIQUE DE CLAYE-SOUILLY&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Choeur Odyssées&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site internet : &lt;a href=&quot;http://www.festivalclaye.fr&quot; title=&quot;Visiter le site du Festival de musique de Claye-Souilly&quot; target=&quot;_blank&quot;&gt;http://www.festivalclaye.fr&lt;/a&gt;&lt;a href=&quot;http://www.joyfleurscreations.fr&quot; title=&quot;Joy Fleurs Creations&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;email : &lt;/strong&gt;&lt;a href=&quot;mailto:mh.caspar@wanadoo.fr&quot; title=&quot;Ecrire à Festival de musique de Claye-Souilly&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;mh.caspar@wanadoo.fr&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt; &lt;br /&gt;
+&lt;div id=&quot;_mcePaste&quot; style=&quot;position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;Festival de Musique&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p lang=&quot;fr-FR&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;de Claye-Souilly&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>A.P.E.A.A.I.N.E.</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/apeaaine/152-apeaaine"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/apeaaine/152-apeaaine</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;A.P.E.A.A.I.N.E.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;ASSOCIATION DE PARENTS &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D'ENFANTS ADOLESCENTS ET ADULTES &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INADAPTES DU NORD EST BANLIEUE&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ILLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Etablissement d’aide par le travail Les ateliers de l’Ambresis - APEAAINE&lt;br /&gt;&lt;br /&gt;12 rue de l’Industrie - 77270 VILLEPARISIS&lt;br /&gt;&lt;br /&gt;01 60 21 20 41 - Email : esatambresis@aede.fr&lt;br /&gt;&lt;br /&gt;100 places - Principal handicap accueilli : déficience intellectuelle&lt;br /&gt;&lt;br /&gt;Activités proposées : conditionnements divers, prestations de services en entreprise, petits travaux d’entretien.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;I&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;LLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Le Clos des Châtaigniers&lt;br /&gt;&lt;br /&gt;2/6 rue de l’Île-de-France - 77270 Villeparisis&lt;/p&gt;
+&lt;p&gt;01 64 44 74 40 - Email : leclosdeschataigniers@aede.fr&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : handicap mental ou psychique&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Service d’accompagnement à la vie sociale &quot;Au Fil de l’Ourcq&quot; - APEAAINE&lt;br /&gt;&lt;br /&gt;30 rue Aristide Briand - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81&lt;br /&gt;&lt;br /&gt;Handicap accueilli : handicap mental ou psychique - Zone d’intervention : MDS de Meaux et Mitry&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Les Appartements du Clos des châtaigniers - APEAAINE&lt;br /&gt;&lt;br /&gt;12 bis rue Alfred Maury - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81 - Email : closdeschataigniers@apeaaine.com&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : déficience intellectuelle&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;A.P.E.A.A.I.N.E.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;ASSOCIATION DE PARENTS &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D'ENFANTS ADOLESCENTS ET ADULTES &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INADAPTES DU NORD EST BANLIEUE&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ILLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Etablissement d’aide par le travail Les ateliers de l’Ambresis - APEAAINE&lt;br /&gt;&lt;br /&gt;12 rue de l’Industrie - 77270 VILLEPARISIS&lt;br /&gt;&lt;br /&gt;01 60 21 20 41 - Email : esatambresis@aede.fr&lt;br /&gt;&lt;br /&gt;100 places - Principal handicap accueilli : déficience intellectuelle&lt;br /&gt;&lt;br /&gt;Activités proposées : conditionnements divers, prestations de services en entreprise, petits travaux d’entretien.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;V&lt;/span&gt;&lt;/span&gt;I&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;LLEPARISIS&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Le Clos des Châtaigniers&lt;br /&gt;&lt;br /&gt;2/6 rue de l’Île-de-France - 77270 Villeparisis&lt;/p&gt;
+&lt;p&gt;01 64 44 74 40 - Email : leclosdeschataigniers@aede.fr&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : handicap mental ou psychique&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Service d’accompagnement à la vie sociale &quot;Au Fil de l’Ourcq&quot; - APEAAINE&lt;br /&gt;&lt;br /&gt;30 rue Aristide Briand - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81&lt;br /&gt;&lt;br /&gt;Handicap accueilli : handicap mental ou psychique - Zone d’intervention : MDS de Meaux et Mitry&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;EAUX&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Foyer Les Appartements du Clos des châtaigniers - APEAAINE&lt;br /&gt;&lt;br /&gt;12 bis rue Alfred Maury - 77100 MEAUX&lt;br /&gt;&lt;br /&gt;01 60 44 73 80 - Fax : 01 60 44 73 81 - Email : closdeschataigniers@apeaaine.com&lt;br /&gt;&lt;br /&gt;Principal handicap accueilli : déficience intellectuelle&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>Présentation de l'I.T.E.P. Frot</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/itep-frot/172-presentation-de-litep-frot"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/itep-frot/172-presentation-de-litep-frot</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center; border: 3px dotted #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Adresse administrative&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;15 RUE LOUIS BRAILLE&lt;br /&gt; 77100 MEAUX&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Tél : &lt;/strong&gt;01 64 34 52 54 &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Fax : &lt;/strong&gt;01 60 09 45 45&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Institut thérapeutique éducatif et pédagogique (I.T.E.P.)&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es Instituts Educatifs, Thérapeutiques et Pédagogiques (ITEP) sont des structures médico-sociales accueillant des enfants et adolescents qui présentent des difficultés psychologiques dont l’expression, notamment les troubles du comportement, perturbe gravement la socialisation et l’accès aux apprentissages.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques conjuguent au sein d’une même équipe institutionnelle, des interventions thérapeutiques, éducatives et pédagogiques.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques tentent ainsi d’inverser le processus handicapant dans lequel les enfants et adolescents aux potentialités intellectuelles et cognitives intactes, sont engagés.&lt;/p&gt;
+&lt;p&gt;L’accueil en Institut Educatif, Thérapeutique et Pédagogique se fait en internat ou demi-pension.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;’enseignement est dispensé soit au sein de l’établissement lui-même par des enseignants spécialisés, soit en scolarisation à temps partiel dans des classes ordinaires ou spécialisées, d’établissements scolaires proches, avec l'appui des professionnels de l'ITEP.&lt;/p&gt;
+&lt;p&gt;L'orientation vers un Institut Educatif, Thérapeutique et Pédagogique se fait par décision de la Commission des droits et de l'autonomie des personnes handicapées (C.D.A.P.H) du département de résidence de l’enfant.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: center; border: 3px dotted #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Adresse administrative&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;15 RUE LOUIS BRAILLE&lt;br /&gt; 77100 MEAUX&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Tél : &lt;/strong&gt;01 64 34 52 54 &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style=&quot;color: #521b3a;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Fax : &lt;/strong&gt;01 60 09 45 45&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Institut thérapeutique éducatif et pédagogique (I.T.E.P.)&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es Instituts Educatifs, Thérapeutiques et Pédagogiques (ITEP) sont des structures médico-sociales accueillant des enfants et adolescents qui présentent des difficultés psychologiques dont l’expression, notamment les troubles du comportement, perturbe gravement la socialisation et l’accès aux apprentissages.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques conjuguent au sein d’une même équipe institutionnelle, des interventions thérapeutiques, éducatives et pédagogiques.&lt;/p&gt;
+&lt;p&gt;Les Instituts Educatifs, Thérapeutiques et Pédagogiques tentent ainsi d’inverser le processus handicapant dans lequel les enfants et adolescents aux potentialités intellectuelles et cognitives intactes, sont engagés.&lt;/p&gt;
+&lt;p&gt;L’accueil en Institut Educatif, Thérapeutique et Pédagogique se fait en internat ou demi-pension.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;’enseignement est dispensé soit au sein de l’établissement lui-même par des enseignants spécialisés, soit en scolarisation à temps partiel dans des classes ordinaires ou spécialisées, d’établissements scolaires proches, avec l'appui des professionnels de l'ITEP.&lt;/p&gt;
+&lt;p&gt;L'orientation vers un Institut Educatif, Thérapeutique et Pédagogique se fait par décision de la Commission des droits et de l'autonomie des personnes handicapées (C.D.A.P.H) du département de résidence de l’enfant.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>E.P.M.S. du Provinois</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/epms/175-epms-du-provinois"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/epms/175-epms-du-provinois</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;E.P.M.S. du Provinois&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/EPMS_provinois.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a mission de l'Etablissement Public Médico Social du PROVINOIS, est  de constituer, en se fondant sur l'expérience de la structure d'origine,  un réseau de prises en charge de l'enfant et de l'adulte handicapé,  visant notamment à assurer la continuité de l'accompagnement éducatif et  social des personnes handicapées mentales sur le Provinois, de  développer et de créer des solutions adaptées en regard de la diversité  des situations que vivent les personnes handicapées, de permettre à  chacun la meilleure socialisation possible et le mode de vie le plus  proche possible de la norme.&lt;/p&gt;
+L'établissement est une institution médico-sociale au sens des  articles L.311-1 et L. 312-1 du Code de l'action sociale et des  familles.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: right;&quot; colspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;Site de l'E.P.M.S. du Provinois&quot; href=&quot;http://www.epms-provins.com/index.phtml&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;E.P.M.S. du Provinois&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/EPMS_provinois.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a mission de l'Etablissement Public Médico Social du PROVINOIS, est  de constituer, en se fondant sur l'expérience de la structure d'origine,  un réseau de prises en charge de l'enfant et de l'adulte handicapé,  visant notamment à assurer la continuité de l'accompagnement éducatif et  social des personnes handicapées mentales sur le Provinois, de  développer et de créer des solutions adaptées en regard de la diversité  des situations que vivent les personnes handicapées, de permettre à  chacun la meilleure socialisation possible et le mode de vie le plus  proche possible de la norme.&lt;/p&gt;
+L'établissement est une institution médico-sociale au sens des  articles L.311-1 et L. 312-1 du Code de l'action sociale et des  familles.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: right;&quot; colspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;Site de l'E.P.M.S. du Provinois&quot; href=&quot;http://www.epms-provins.com/index.phtml&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>C.F.A. Gué à Tresmes</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/cfa-gue-a-tresmes/178-cfa-gue-a-tresmes"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/cfa-gue-a-tresmes/178-cfa-gue-a-tresmes</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/CFA/gue-atresmes-chateau.jpg&quot; alt=&quot;Le C.F.A. Gué à Tresmes&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;'établissement offre une vingtaine de formations passionnantes&lt;br /&gt; dans des domaines aussi variés que:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;strong&gt;la céramique&amp;nbsp; -&amp;nbsp; le staff&amp;nbsp; -&amp;nbsp; les arts appliqués&lt;br /&gt; le graphisme signalétique&amp;nbsp; -&amp;nbsp; l'aménagement et la finition&lt;br /&gt; l'hôtellerie et la restauration&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Situé à proximité de &lt;strong&gt;Meaux&lt;/strong&gt;, avec un service&amp;nbsp;&amp;nbsp; d'hébergement optionnel en internat, plusieurs restaurants d'application,&lt;br /&gt; un parc de 26 hectares,&lt;br /&gt; un château du XVIIIème siècle.....&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://lycee-gueatresmes.fr/cfa.aspx&quot; title=&quot;Site du CFA Gué à Tresmes&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/CFA/gue-atresmes-chateau.jpg&quot; alt=&quot;Le C.F.A. Gué à Tresmes&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;'établissement offre une vingtaine de formations passionnantes&lt;br /&gt; dans des domaines aussi variés que:&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;strong&gt;la céramique&amp;nbsp; -&amp;nbsp; le staff&amp;nbsp; -&amp;nbsp; les arts appliqués&lt;br /&gt; le graphisme signalétique&amp;nbsp; -&amp;nbsp; l'aménagement et la finition&lt;br /&gt; l'hôtellerie et la restauration&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Situé à proximité de &lt;strong&gt;Meaux&lt;/strong&gt;, avec un service&amp;nbsp;&amp;nbsp; d'hébergement optionnel en internat, plusieurs restaurants d'application,&lt;br /&gt; un parc de 26 hectares,&lt;br /&gt; un château du XVIIIème siècle.....&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://lycee-gueatresmes.fr/cfa.aspx&quot; title=&quot;Site du CFA Gué à Tresmes&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>STRETCHING POSTURAL</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/associations-culturelles/187-stretching-postural"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/associations-culturelles/187-stretching-postural</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: center; background-color: #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;STRETCHING POSTURAL&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Association EVEIL EQUILIBRE&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tél : 01.60.26.72.60&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;email : fab-lamy@orange.fr&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt; &lt;br /&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: center; background-color: #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;STRETCHING POSTURAL&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Association EVEIL EQUILIBRE&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tél : 01.60.26.72.60&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;email : fab-lamy@orange.fr&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>TAI CHI CHUAN</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/associations-culturelles/190-tai-chi-chuan"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/associations-culturelles/190-tai-chi-chuan</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: center; background-color: #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;TAI CHI CHUAN&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;Monsieur CIUPA Stéphane&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tél : 01.48.61.06.01&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt; &lt;br /&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: center; background-color: #521b3a;&quot; class=&quot;tableau_cellule_img&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;TAI CHI CHUAN&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;Monsieur CIUPA Stéphane&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tél : 01.48.61.06.01&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt; &lt;br /&gt;</content>
+	</entry>
+</feed>

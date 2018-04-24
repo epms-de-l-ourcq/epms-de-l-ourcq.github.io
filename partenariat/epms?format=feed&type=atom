@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jceutilities/css/jceutilities.css?v=224" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jceutilities/themes/standard/css/style.css?version=224" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">E.P.M.S.</title>
+	<subtitle type="text">E.P.M.S. Etablissement Public Médico-Social de Seine et Marne</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr"/>
+	<id>http://www.epms-ourcq.fr/</id>
+	<updated>2018-04-24T08:23:36Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.epms-ourcq.fr/partenariat/epms?format=feed&amp;type=atom" />
+	<entry>
+		<title>E.P.M.S. Fondation Hardy</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/epms/420-epms-fondation-hardy"/>
+		<published>2013-12-05T23:00:00Z</published>
+		<updated>2013-12-05T23:00:00Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/epms/420-epms-fondation-hardy</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;170&quot; height=&quot;170&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/f_hardy.jpg&quot; alt=&quot;E.P.M.S. fondation Hardy&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es différentes structures, au travers de l’établissement public médico-social, s’attachent à accompagner toutes personnes en situation de handicap, dans son cheminement et la mise en œuvre de son projet personnel. La personne accueillie est le centre de l’action.&lt;/p&gt;
+&lt;p&gt;C’est pourquoi l’établissement avec cœur et enthousiasme, met à la disposition de tous, ses compétences et ses valeurs afin de favoriser et de valoriser le projet de vie de ceux qui accordent leur confiance à L’EPMS.&lt;br /&gt;Selon la réglementation en vigueur, chaque jeune, dans sa singularité, son identité et son particularisme présente des difficultés spécifiques mais aussi des capacités particulières, auxquelles nous devons répondre par des prises en charge individuelles.&lt;/p&gt;
+&lt;p&gt;Aussi, chaque jeune bénéficie dans la palette des prises en charge et des modes d’accompagnement possibles, d’un planning, d’un parcours, d’une mobilisation qui lui sont propres.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://www.epms-hardy.com&quot; title=&quot;E.P.M.S. fondation Hardy&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; class=&quot;tableau_articles&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr class=&quot;ligne_background&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_cellule_img&quot; style=&quot;text-align: left;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;170&quot; height=&quot;170&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/f_hardy.jpg&quot; alt=&quot;E.P.M.S. fondation Hardy&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;es différentes structures, au travers de l’établissement public médico-social, s’attachent à accompagner toutes personnes en situation de handicap, dans son cheminement et la mise en œuvre de son projet personnel. La personne accueillie est le centre de l’action.&lt;/p&gt;
+&lt;p&gt;C’est pourquoi l’établissement avec cœur et enthousiasme, met à la disposition de tous, ses compétences et ses valeurs afin de favoriser et de valoriser le projet de vie de ceux qui accordent leur confiance à L’EPMS.&lt;br /&gt;Selon la réglementation en vigueur, chaque jeune, dans sa singularité, son identité et son particularisme présente des difficultés spécifiques mais aussi des capacités particulières, auxquelles nous devons répondre par des prises en charge individuelles.&lt;/p&gt;
+&lt;p&gt;Aussi, chaque jeune bénéficie dans la palette des prises en charge et des modes d’accompagnement possibles, d’un planning, d’un parcours, d’une mobilisation qui lui sont propres.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://www.epms-hardy.com&quot; title=&quot;E.P.M.S. fondation Hardy&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;tableau_fin_articles&quot;&gt;&lt;img src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; style=&quot;float: right;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+	<entry>
+		<title>E.P.M.S. du Provinois</title>
+		<link rel="alternate" type="text/html" href="http://www.epms-ourcq.fr/partenariat/epms/175-epms-du-provinois"/>
+		<published>2010-12-14T13:28:06Z</published>
+		<updated>2010-12-14T13:28:06Z</updated>
+		<id>http://www.epms-ourcq.fr/partenariat/epms/175-epms-du-provinois</id>
+		<author>
+			<name>Administrator</name>
+		<email>brigitte.lalanne@llis.fr</email>
+		</author>
+		<summary type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;E.P.M.S. du Provinois&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/EPMS_provinois.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a mission de l'Etablissement Public Médico Social du PROVINOIS, est  de constituer, en se fondant sur l'expérience de la structure d'origine,  un réseau de prises en charge de l'enfant et de l'adulte handicapé,  visant notamment à assurer la continuité de l'accompagnement éducatif et  social des personnes handicapées mentales sur le Provinois, de  développer et de créer des solutions adaptées en regard de la diversité  des situations que vivent les personnes handicapées, de permettre à  chacun la meilleure socialisation possible et le mode de vie le plus  proche possible de la norme.&lt;/p&gt;
+L'établissement est une institution médico-sociale au sens des  articles L.311-1 et L. 312-1 du Code de l'action sociale et des  familles.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: right;&quot; colspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;Site de l'E.P.M.S. du Provinois&quot; href=&quot;http://www.epms-provins.com/index.phtml&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</summary>
+		<content type="html">&lt;table class=&quot;tableau_articles&quot; border=&quot;0&quot;&gt;
+&lt;tbody style=&quot;text-align: left;&quot;&gt;
+&lt;tr style=&quot;text-align: left;&quot; class=&quot;ligne_background&quot;&gt;
+&lt;td style=&quot;text-align: left;&quot; class=&quot;tableau_cellule_img&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;E.P.M.S. du Provinois&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/partenariat/epms/EPMS_provinois.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: left;&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;lettrine&quot;&gt;&lt;span style=&quot;background-color: #521b3a;&quot;&gt;L&lt;/span&gt;&lt;/span&gt;a mission de l'Etablissement Public Médico Social du PROVINOIS, est  de constituer, en se fondant sur l'expérience de la structure d'origine,  un réseau de prises en charge de l'enfant et de l'adulte handicapé,  visant notamment à assurer la continuité de l'accompagnement éducatif et  social des personnes handicapées mentales sur le Provinois, de  développer et de créer des solutions adaptées en regard de la diversité  des situations que vivent les personnes handicapées, de permettre à  chacun la meilleure socialisation possible et le mode de vie le plus  proche possible de la norme.&lt;/p&gt;
+L'établissement est une institution médico-sociale au sens des  articles L.311-1 et L. 312-1 du Code de l'action sociale et des  familles.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: right;&quot; colspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;Site de l'E.P.M.S. du Provinois&quot; href=&quot;http://www.epms-provins.com/index.phtml&quot;&gt;&lt;strong&gt;En savoir plus...&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td class=&quot;tableau_fin_articles&quot; colspan=&quot;2&quot;&gt;&lt;img style=&quot;float: right;&quot; src=&quot;http://www.epms-ourcq.fr/images/stories/articles/fin_articles.png&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp; &lt;br /&gt;</content>
+	</entry>
+</feed>

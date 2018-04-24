@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* { margin:0;
+	padding:0;
+}
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:62.5%;
+	}
+#global {
+	height: 409px;
+	width: 721px;
+
+        background: url(../../../images/stories/tranches/index/zone_centre/centre_puzzle.jpg) 0 0 no-repeat;
+}
+#moitie_gauche {
+	float: left;
+	height: 405px;
+	width: 360px;
+}
+#moitie_droite {
+	float: left;
+	height: 405px;
+	width: 360px;
+}
+#pedagogique {
+	float: none;
+	height: 95px;
+	width: 91px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+#professionnelle {
+	float: none;
+	height: 100px;
+	width: 81px;
+	margin-top: 30px;
+}
+#educative {
+	float: left;
+	height: 95px;
+	width: 117px;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+
+#sessad {
+	float: none;
+	height: 75px;
+	width: 110px;
+	margin-top: 10px;
+	margin-left: 196px;
+}
+#sasf {
+	float: none;
+	height: 105px;
+	width: 89px;
+	margin-left: 271px;
+	margin-top: 25px;
+}
+
+#sah {
+	float: right;
+	height: 100px;
+	width: 99px;
+	margin-top: 15px;
+}
+#angle_gauche {
+	float: left;
+	height: 180px;
+	width: 260px;
+}
+
+#caj {
+	float: left;
+	height: 110px;
+	width: 86px;
+	margin-top: 70px;
+	margin-left: 175px;
+}

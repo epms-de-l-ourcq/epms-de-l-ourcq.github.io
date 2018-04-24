@@ -1,0 +1,12 @@
+div.se-tooltip-toggler{cursor:pointer;}
+div.se-tooltip div.default .tooltip-tl{background:url(../../../../media/com_allevents/images/tooltip/bubble_tl.png) 0 0 no-repeat;position:relative;}
+div.se-tooltip div.default .tooltip-tr{padding:0px 5px 0px 5px;background:url(../../../../media/com_allevents/images/tooltip/bubble_tr.png) 100% 0 no-repeat;}
+div.se-tooltip div.default .tooltip-t{background:url(../../../../media/com_allevents/images/tooltip/bubble_t.png) 0 0 repeat-x;}
+div.se-tooltip div.default .tooltip-l{background:url(../../../../media/com_allevents/images/tooltip/bubble_l.png) 0 0 repeat-y;}
+div.se-tooltip div.default .tooltip-r{padding:0px 5px 0px 5px;background:url(../../../../media/com_allevents/images/tooltip/bubble_r.png) 100% 0 repeat-y;padding-right:5px;}
+div.se-tooltip div.default .tooltip-m{margin:0px;padding:0px 0px 0px 5px;background-color:white;overflow:hidden;}
+div.se-tooltip div.default .tooltip-bl{background:url(../../../../media/com_allevents/images/tooltip/bubble_bl.png) 0 0 no-repeat;}
+div.se-tooltip div.default .tooltip-br{padding:0px 5px 0px 5px;background:url(../../../../media/com_allevents/images/tooltip/bubble_br.png) 100% 0 no-repeat;}
+div.se-tooltip div.default .tooltip-b{background:url(../../../../media/com_allevents/images/tooltip/bubble_b.png) 0 0 repeat-x;}
+div.se-tooltip div.default .tooltip-arrow{background:url(../../../../media/com_allevents/images/tooltip/bubble_arrow.png) 50% 0 no-repeat;}
+div.se-tooltip div.default .tooltip-close{position:absolute;top:8px;right:10px;width:5px;height:25px;background:url(../../../../media/com_allevents/images/tooltip/close.png) 0 0 no-repeat;cursor:pointer;}   

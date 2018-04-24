@@ -1,0 +1,69 @@
+table.Calendar{
+   padding         : 0;
+   margin          : 0 auto;
+   font            : normal 1em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+   color           : #000000;
+   text-align      : center;
+   border-collapse : collapse;
+   background      : #fff;
+   border-style    : solid;
+   -width    : .1em;
+}
+
+/* Premi�re ligne du tableau : il s'agit de la ligne avec les noms des jours (Lundi, Mardi, ...) */
+
+tr.se_calendar_head {
+   background     : #ccc;
+   font-weight    : bold;
+   text-align     : center;
+   width          : 120px;
+   padding        : 5px;
+   border-bottom  : 1px solid #999;
+   border-top     : 1px solid #999;
+   border-right   : 1px solid #999;
+}
+
+img.poster { width: 170px; }
+img.img_se_calendrier { width:.8em; }
+a.headerArrow, a.headerArrow:link, a.headerArrow:visited {
+   font            : regular 1em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+   color           : #e3680d;
+   text-align      : center;
+   text-decoration : none;
+}
+td.headerDate {
+   background      : #d4d5aa;/*#616D7E;*/
+   text-decoration : none;
+   text-align      : center !important;
+}
+td.headerArrow{
+   background      : #d4d5aa; /*#616D7E;*/
+}
+a.headerDate, a.headerDate:link, a.headerDate:visited {
+   font            : regular .9em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+   color           : #e3680d;
+   text-align      : center;
+   text-decoration : none
+}
+td.dayName{
+   font            : bold 1em/1.8em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+   color           : #616B76;
+   background      : #d4d5aa;
+   text-align      : center !important;
+}
+td.Day {
+   width           : 2em;
+   height          : 1.8em;
+   text-align      : center !important;
+}
+td.Today    {  : 2px solid red; }
+td.Event    {  : 2px dotted green; }
+td.Saturday { background-color : #EDFFD4; }
+td.Sunday   { background-color : #FFE9E9; }
+tr.se_bullet_row, td.se_bullet_row { max-height : .5em; height : 0px; }
+table.Legend { margin-top : 1em; -spacing : 0px; -collapse : collapse; table-layout : auto; }
+table.Legend td, table.Legend th { padding : 0; }
+table.Legend td.Color  { width : .9em; }
+table.Legend td.Agenda { padding-left : .5em; }
+table.Legend tr.LegendRow { line-height : 1em; }
+.no_hand { /*cursor : not-allowed;*/ }
